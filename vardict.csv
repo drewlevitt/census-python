@@ -1,971 +1,210 @@
-Topic,Name,acs5_2012,sf3_2000,sf1_2010,sf1_2000
-population,total population,B01003_001E,,P0010001,P001001
-population,total population MOE,B01003_001M,,,
-household income,Total (Estimate),B19001_001E,,,
-household income,"Less Than $10,000 (Estimate)",B19001_002E,,,
-household income,"$10,000 To $14,999 (Estimate)",B19001_003E,,,
-household income,"$15,000 To $19,999 (Estimate)",B19001_004E,,,
-household income,"$20,000 To $24,999 (Estimate)",B19001_005E,,,
-household income,"$25,000 To $29,999 (Estimate)",B19001_006E,,,
-household income,"$30,000 To $34,999 (Estimate)",B19001_007E,,,
-household income,"$35,000 To $39,999 (Estimate)",B19001_008E,,,
-household income,"$40,000 To $44,999 (Estimate)",B19001_009E,,,
-household income,"$45,000 To $49,999 (Estimate)",B19001_010E,,,
-household income,"$50,000 To $59,999 (Estimate)",B19001_011E,,,
-household income,"$60,000 To $74,999 (Estimate)",B19001_012E,,,
-household income,"$75,000 To $99,999 (Estimate)",B19001_013E,,,
-household income,"$100,000 To $124,999 (Estimate)",B19001_014E,,,
-household income,"$125,000 To $149,999 (Estimate)",B19001_015E,,,
-household income,"$150,000 To $199,999 (Estimate)",B19001_016E,,,
-household income,"$200,000 Or More (Estimate)",B19001_017E,,,
-household income,Total (MOE),B19001_001M,,,
-household income,"Less Than $10,000 (MOE)",B19001_002M,,,
-household income,"$10,000 To $14,999 (MOE)",B19001_003M,,,
-household income,"$15,000 To $19,999 (MOE)",B19001_004M,,,
-household income,"$20,000 To $24,999 (MOE)",B19001_005M,,,
-household income,"$25,000 To $29,999 (MOE)",B19001_006M,,,
-household income,"$30,000 To $34,999 (MOE)",B19001_007M,,,
-household income,"$35,000 To $39,999 (MOE)",B19001_008M,,,
-household income,"$40,000 To $44,999 (MOE)",B19001_009M,,,
-household income,"$45,000 To $49,999 (MOE)",B19001_010M,,,
-household income,"$50,000 To $59,999 (MOE)",B19001_011M,,,
-household income,"$60,000 To $74,999 (MOE)",B19001_012M,,,
-household income,"$75,000 To $99,999 (MOE)",B19001_013M,,,
-household income,"$100,000 To $124,999 (MOE)",B19001_014M,,,
-household income,"$125,000 To $149,999 (MOE)",B19001_015M,,,
-household income,"$150,000 To $199,999 (MOE)",B19001_016M,,,
-household income,"$200,000 Or More (MOE)",B19001_017M,,,
-travel time to work by mode,Travel Time to Work - Total,B08134_001E,,,
-travel time to work by mode,Travel Time to Work - Less Than 10 Minutes,B08134_002E,,,
-travel time to work by mode,Travel Time to Work - 10 To 14 Minutes,B08134_003E,,,
-travel time to work by mode,Travel Time to Work - 15 To 19 Minutes,B08134_004E,,,
-travel time to work by mode,Travel Time to Work - 20 To 24 Minutes,B08134_005E,,,
-travel time to work by mode,Travel Time to Work - 25 To 29 Minutes,B08134_006E,,,
-travel time to work by mode,Travel Time to Work - 30 To 34 Minutes,B08134_007E,,,
-travel time to work by mode,Travel Time to Work - 35 To 44 Minutes,B08134_008E,,,
-travel time to work by mode,Travel Time to Work - 45 To 59 Minutes,B08134_009E,,,
-travel time to work by mode,Travel Time to Work - 60 Or More Minutes,B08134_010E,,,
-travel time to work by mode,"Travel Time to Work - Car, Truck, Or Van",B08134_011E,,,
-travel time to work by mode,Travel Time to Work - Less Than 10 Minutes,B08134_012E,,,
-travel time to work by mode,Travel Time to Work - 10 To 14 Minutes,B08134_013E,,,
-travel time to work by mode,Travel Time to Work - 15 To 19 Minutes,B08134_014E,,,
-travel time to work by mode,Travel Time to Work - 20 To 24 Minutes,B08134_015E,,,
-travel time to work by mode,Travel Time to Work - 25 To 29 Minutes,B08134_016E,,,
-travel time to work by mode,Travel Time to Work - 30 To 34 Minutes,B08134_017E,,,
-travel time to work by mode,Travel Time to Work - 35 To 44 Minutes,B08134_018E,,,
-travel time to work by mode,Travel Time to Work - 45 To 59 Minutes,B08134_019E,,,
-travel time to work by mode,Travel Time to Work - 60 Or More Minutes,B08134_020E,,,
-travel time to work by mode,Travel Time to Work - Drove Alone,B08134_021E,,,
-travel time to work by mode,Travel Time to Work - Less Than 10 Minutes,B08134_022E,,,
-travel time to work by mode,Travel Time to Work - 10 To 14 Minutes,B08134_023E,,,
-travel time to work by mode,Travel Time to Work - 15 To 19 Minutes,B08134_024E,,,
-travel time to work by mode,Travel Time to Work - 20 To 24 Minutes,B08134_025E,,,
-travel time to work by mode,Travel Time to Work - 25 To 29 Minutes,B08134_026E,,,
-travel time to work by mode,Travel Time to Work - 30 To 34 Minutes,B08134_027E,,,
-travel time to work by mode,Travel Time to Work - 35 To 44 Minutes,B08134_028E,,,
-travel time to work by mode,Travel Time to Work - 45 To 59 Minutes,B08134_029E,,,
-travel time to work by mode,Travel Time to Work - 60 Or More Minutes,B08134_030E,,,
-travel time to work by mode,Travel Time to Work - Carpooled,B08134_031E,,,
-travel time to work by mode,Travel Time to Work - Less Than 10 Minutes,B08134_032E,,,
-travel time to work by mode,Travel Time to Work - 10 To 14 Minutes,B08134_033E,,,
-travel time to work by mode,Travel Time to Work - 15 To 19 Minutes,B08134_034E,,,
-travel time to work by mode,Travel Time to Work - 20 To 24 Minutes,B08134_035E,,,
-travel time to work by mode,Travel Time to Work - 25 To 29 Minutes,B08134_036E,,,
-travel time to work by mode,Travel Time to Work - 30 To 34 Minutes,B08134_037E,,,
-travel time to work by mode,Travel Time to Work - 35 To 44 Minutes,B08134_038E,,,
-travel time to work by mode,Travel Time to Work - 45 To 59 Minutes,B08134_039E,,,
-travel time to work by mode,Travel Time to Work - 60 Or More Minutes,B08134_040E,,,
-travel time to work by mode,Travel Time to Work - In 2-Person Carpool,B08134_041E,,,
-travel time to work by mode,Travel Time to Work - Less Than 10 Minutes,B08134_042E,,,
-travel time to work by mode,Travel Time to Work - 10 To 14 Minutes,B08134_043E,,,
-travel time to work by mode,Travel Time to Work - 15 To 19 Minutes,B08134_044E,,,
-travel time to work by mode,Travel Time to Work - 20 To 24 Minutes,B08134_045E,,,
-travel time to work by mode,Travel Time to Work - 25 To 29 Minutes,B08134_046E,,,
-travel time to work by mode,Travel Time to Work - 30 To 34 Minutes,B08134_047E,,,
-travel time to work by mode,Travel Time to Work - 35 To 44 Minutes,B08134_048E,,,
-travel time to work by mode,Travel Time to Work - 45 To 59 Minutes,B08134_049E,,,
-travel time to work by mode,Travel Time to Work - 60 Or More Minutes,B08134_050E,,,
-travel time to work by mode,Travel Time to Work - In 3-Or-More-Person Carpool,B08134_051E,,,
-travel time to work by mode,Travel Time to Work - Less Than 10 Minutes,B08134_052E,,,
-travel time to work by mode,Travel Time to Work - 10 To 14 Minutes,B08134_053E,,,
-travel time to work by mode,Travel Time to Work - 15 To 19 Minutes,B08134_054E,,,
-travel time to work by mode,Travel Time to Work - 20 To 24 Minutes,B08134_055E,,,
-travel time to work by mode,Travel Time to Work - 25 To 29 Minutes,B08134_056E,,,
-travel time to work by mode,Travel Time to Work - 30 To 34 Minutes,B08134_057E,,,
-travel time to work by mode,Travel Time to Work - 35 To 44 Minutes,B08134_058E,,,
-travel time to work by mode,Travel Time to Work - 45 To 59 Minutes,B08134_059E,,,
-travel time to work by mode,Travel Time to Work - 60 Or More Minutes,B08134_060E,,,
-travel time to work by mode,Travel Time to Work - Public Transportation (Excluding Taxicab),B08134_061E,,,
-travel time to work by mode,Travel Time to Work - Less Than 10 Minutes,B08134_062E,,,
-travel time to work by mode,Travel Time to Work - 10 To 14 Minutes,B08134_063E,,,
-travel time to work by mode,Travel Time to Work - 15 To 19 Minutes,B08134_064E,,,
-travel time to work by mode,Travel Time to Work - 20 To 24 Minutes,B08134_065E,,,
-travel time to work by mode,Travel Time to Work - 25 To 29 Minutes,B08134_066E,,,
-travel time to work by mode,Travel Time to Work - 30 To 34 Minutes,B08134_067E,,,
-travel time to work by mode,Travel Time to Work - 35 To 44 Minutes,B08134_068E,,,
-travel time to work by mode,Travel Time to Work - 45 To 59 Minutes,B08134_069E,,,
-travel time to work by mode,Travel Time to Work - 60 Or More Minutes,B08134_070E,,,
-travel time to work by mode,Travel Time to Work - Bus Or Trolley Bus,B08134_071E,,,
-travel time to work by mode,Travel Time to Work - Less Than 10 Minutes,B08134_072E,,,
-travel time to work by mode,Travel Time to Work - 10 To 14 Minutes,B08134_073E,,,
-travel time to work by mode,Travel Time to Work - 15 To 19 Minutes,B08134_074E,,,
-travel time to work by mode,Travel Time to Work - 20 To 24 Minutes,B08134_075E,,,
-travel time to work by mode,Travel Time to Work - 25 To 29 Minutes,B08134_076E,,,
-travel time to work by mode,Travel Time to Work - 30 To 34 Minutes,B08134_077E,,,
-travel time to work by mode,Travel Time to Work - 35 To 44 Minutes,B08134_078E,,,
-travel time to work by mode,Travel Time to Work - 45 To 59 Minutes,B08134_079E,,,
-travel time to work by mode,Travel Time to Work - 60 Or More Minutes,B08134_080E,,,
-travel time to work by mode,"Travel Time to Work - Streetcar Or Trolley Car (Carro Publico In Puerto Rico), Subway Or Elevated",B08134_081E,,,
-travel time to work by mode,Travel Time to Work - Less Than 10 Minutes,B08134_082E,,,
-travel time to work by mode,Travel Time to Work - 10 To 14 Minutes,B08134_083E,,,
-travel time to work by mode,Travel Time to Work - 15 To 19 Minutes,B08134_084E,,,
-travel time to work by mode,Travel Time to Work - 20 To 24 Minutes,B08134_085E,,,
-travel time to work by mode,Travel Time to Work - 25 To 29 Minutes,B08134_086E,,,
-travel time to work by mode,Travel Time to Work - 30 To 34 Minutes,B08134_087E,,,
-travel time to work by mode,Travel Time to Work - 35 To 44 Minutes,B08134_088E,,,
-travel time to work by mode,Travel Time to Work - 45 To 59 Minutes,B08134_089E,,,
-travel time to work by mode,Travel Time to Work - 60 Or More Minutes,B08134_090E,,,
-travel time to work by mode,Travel Time to Work - Railroad Or Ferryboat,B08134_091E,,,
-travel time to work by mode,Travel Time to Work - Less Than 10 Minutes,B08134_092E,,,
-travel time to work by mode,Travel Time to Work - 10 To 14 Minutes,B08134_093E,,,
-travel time to work by mode,Travel Time to Work - 15 To 19 Minutes,B08134_094E,,,
-travel time to work by mode,Travel Time to Work - 20 To 24 Minutes,B08134_095E,,,
-travel time to work by mode,Travel Time to Work - 25 To 29 Minutes,B08134_096E,,,
-travel time to work by mode,Travel Time to Work - 30 To 34 Minutes,B08134_097E,,,
-travel time to work by mode,Travel Time to Work - 35 To 44 Minutes,B08134_098E,,,
-travel time to work by mode,Travel Time to Work - 45 To 59 Minutes,B08134_099E,,,
-travel time to work by mode,Travel Time to Work - 60 Or More Minutes,B08134_100E,,,
-travel time to work by mode,Travel Time to Work - Walked,B08134_101E,,,
-travel time to work by mode,Travel Time to Work - Less Than 10 Minutes,B08134_102E,,,
-travel time to work by mode,Travel Time to Work - 10 To 14 Minutes,B08134_103E,,,
-travel time to work by mode,Travel Time to Work - 15 To 19 Minutes,B08134_104E,,,
-travel time to work by mode,Travel Time to Work - 20 To 24 Minutes,B08134_105E,,,
-travel time to work by mode,Travel Time to Work - 25 To 29 Minutes,B08134_106E,,,
-travel time to work by mode,Travel Time to Work - 30 To 34 Minutes,B08134_107E,,,
-travel time to work by mode,Travel Time to Work - 35 To 44 Minutes,B08134_108E,,,
-travel time to work by mode,Travel Time to Work - 45 To 59 Minutes,B08134_109E,,,
-travel time to work by mode,Travel Time to Work - 60 Or More Minutes,B08134_110E,,,
-travel time to work by mode,"Travel Time to Work - Taxicab, Motorcycle, Bicycle, Or Other Means",B08134_111E,,,
-travel time to work by mode,Travel Time to Work - Less Than 10 Minutes,B08134_112E,,,
-travel time to work by mode,Travel Time to Work - 10 To 14 Minutes,B08134_113E,,,
-travel time to work by mode,Travel Time to Work - 15 To 19 Minutes,B08134_114E,,,
-travel time to work by mode,Travel Time to Work - 20 To 24 Minutes,B08134_115E,,,
-travel time to work by mode,Travel Time to Work - 25 To 29 Minutes,B08134_116E,,,
-travel time to work by mode,Travel Time to Work - 30 To 34 Minutes,B08134_117E,,,
-travel time to work by mode,Travel Time to Work - 35 To 44 Minutes,B08134_118E,,,
-travel time to work by mode,Travel Time to Work - 45 To 59 Minutes,B08134_119E,,,
-travel time to work by mode,Travel Time to Work - 60 Or More Minutes,B08134_120E,,,
-travel time to work by mode,Travel Time to Work - Total (MOE),B08134_001M,,,
-travel time to work by mode,Travel Time to Work - Less Than 10 Minutes (MOE),B08134_002M,,,
-travel time to work by mode,Travel Time to Work - 10 To 14 Minutes (MOE),B08134_003M,,,
-travel time to work by mode,Travel Time to Work - 15 To 19 Minutes (MOE),B08134_004M,,,
-travel time to work by mode,Travel Time to Work - 20 To 24 Minutes (MOE),B08134_005M,,,
-travel time to work by mode,Travel Time to Work - 25 To 29 Minutes (MOE),B08134_006M,,,
-travel time to work by mode,Travel Time to Work - 30 To 34 Minutes (MOE),B08134_007M,,,
-travel time to work by mode,Travel Time to Work - 35 To 44 Minutes (MOE),B08134_008M,,,
-travel time to work by mode,Travel Time to Work - 45 To 59 Minutes (MOE),B08134_009M,,,
-travel time to work by mode,Travel Time to Work - 60 Or More Minutes (MOE),B08134_010M,,,
-travel time to work by mode,"Travel Time to Work - Car, Truck, Or Van (MOE)",B08134_011M,,,
-travel time to work by mode,Travel Time to Work - Less Than 10 Minutes (MOE),B08134_012M,,,
-travel time to work by mode,Travel Time to Work - 10 To 14 Minutes (MOE),B08134_013M,,,
-travel time to work by mode,Travel Time to Work - 15 To 19 Minutes (MOE),B08134_014M,,,
-travel time to work by mode,Travel Time to Work - 20 To 24 Minutes (MOE),B08134_015M,,,
-travel time to work by mode,Travel Time to Work - 25 To 29 Minutes (MOE),B08134_016M,,,
-travel time to work by mode,Travel Time to Work - 30 To 34 Minutes (MOE),B08134_017M,,,
-travel time to work by mode,Travel Time to Work - 35 To 44 Minutes (MOE),B08134_018M,,,
-travel time to work by mode,Travel Time to Work - 45 To 59 Minutes (MOE),B08134_019M,,,
-travel time to work by mode,Travel Time to Work - 60 Or More Minutes (MOE),B08134_020M,,,
-travel time to work by mode,Travel Time to Work - Drove Alone (MOE),B08134_021M,,,
-travel time to work by mode,Travel Time to Work - Less Than 10 Minutes (MOE),B08134_022M,,,
-travel time to work by mode,Travel Time to Work - 10 To 14 Minutes (MOE),B08134_023M,,,
-travel time to work by mode,Travel Time to Work - 15 To 19 Minutes (MOE),B08134_024M,,,
-travel time to work by mode,Travel Time to Work - 20 To 24 Minutes (MOE),B08134_025M,,,
-travel time to work by mode,Travel Time to Work - 25 To 29 Minutes (MOE),B08134_026M,,,
-travel time to work by mode,Travel Time to Work - 30 To 34 Minutes (MOE),B08134_027M,,,
-travel time to work by mode,Travel Time to Work - 35 To 44 Minutes (MOE),B08134_028M,,,
-travel time to work by mode,Travel Time to Work - 45 To 59 Minutes (MOE),B08134_029M,,,
-travel time to work by mode,Travel Time to Work - 60 Or More Minutes (MOE),B08134_030M,,,
-travel time to work by mode,Travel Time to Work - Carpooled (MOE),B08134_031M,,,
-travel time to work by mode,Travel Time to Work - Less Than 10 Minutes (MOE),B08134_032M,,,
-travel time to work by mode,Travel Time to Work - 10 To 14 Minutes (MOE),B08134_033M,,,
-travel time to work by mode,Travel Time to Work - 15 To 19 Minutes (MOE),B08134_034M,,,
-travel time to work by mode,Travel Time to Work - 20 To 24 Minutes (MOE),B08134_035M,,,
-travel time to work by mode,Travel Time to Work - 25 To 29 Minutes (MOE),B08134_036M,,,
-travel time to work by mode,Travel Time to Work - 30 To 34 Minutes (MOE),B08134_037M,,,
-travel time to work by mode,Travel Time to Work - 35 To 44 Minutes (MOE),B08134_038M,,,
-travel time to work by mode,Travel Time to Work - 45 To 59 Minutes (MOE),B08134_039M,,,
-travel time to work by mode,Travel Time to Work - 60 Or More Minutes (MOE),B08134_040M,,,
-travel time to work by mode,Travel Time to Work - In 2-Person Carpool (MOE),B08134_041M,,,
-travel time to work by mode,Travel Time to Work - Less Than 10 Minutes (MOE),B08134_042M,,,
-travel time to work by mode,Travel Time to Work - 10 To 14 Minutes (MOE),B08134_043M,,,
-travel time to work by mode,Travel Time to Work - 15 To 19 Minutes (MOE),B08134_044M,,,
-travel time to work by mode,Travel Time to Work - 20 To 24 Minutes (MOE),B08134_045M,,,
-travel time to work by mode,Travel Time to Work - 25 To 29 Minutes (MOE),B08134_046M,,,
-travel time to work by mode,Travel Time to Work - 30 To 34 Minutes (MOE),B08134_047M,,,
-travel time to work by mode,Travel Time to Work - 35 To 44 Minutes (MOE),B08134_048M,,,
-travel time to work by mode,Travel Time to Work - 45 To 59 Minutes (MOE),B08134_049M,,,
-travel time to work by mode,Travel Time to Work - 60 Or More Minutes (MOE),B08134_050M,,,
-travel time to work by mode,Travel Time to Work - In 3-Or-More-Person Carpool (MOE),B08134_051M,,,
-travel time to work by mode,Travel Time to Work - Less Than 10 Minutes (MOE),B08134_052M,,,
-travel time to work by mode,Travel Time to Work - 10 To 14 Minutes (MOE),B08134_053M,,,
-travel time to work by mode,Travel Time to Work - 15 To 19 Minutes (MOE),B08134_054M,,,
-travel time to work by mode,Travel Time to Work - 20 To 24 Minutes (MOE),B08134_055M,,,
-travel time to work by mode,Travel Time to Work - 25 To 29 Minutes (MOE),B08134_056M,,,
-travel time to work by mode,Travel Time to Work - 30 To 34 Minutes (MOE),B08134_057M,,,
-travel time to work by mode,Travel Time to Work - 35 To 44 Minutes (MOE),B08134_058M,,,
-travel time to work by mode,Travel Time to Work - 45 To 59 Minutes (MOE),B08134_059M,,,
-travel time to work by mode,Travel Time to Work - 60 Or More Minutes (MOE),B08134_060M,,,
-travel time to work by mode,Travel Time to Work - Public Transportation (Excluding Taxicab) (MOE),B08134_061M,,,
-travel time to work by mode,Travel Time to Work - Less Than 10 Minutes (MOE),B08134_062M,,,
-travel time to work by mode,Travel Time to Work - 10 To 14 Minutes (MOE),B08134_063M,,,
-travel time to work by mode,Travel Time to Work - 15 To 19 Minutes (MOE),B08134_064M,,,
-travel time to work by mode,Travel Time to Work - 20 To 24 Minutes (MOE),B08134_065M,,,
-travel time to work by mode,Travel Time to Work - 25 To 29 Minutes (MOE),B08134_066M,,,
-travel time to work by mode,Travel Time to Work - 30 To 34 Minutes (MOE),B08134_067M,,,
-travel time to work by mode,Travel Time to Work - 35 To 44 Minutes (MOE),B08134_068M,,,
-travel time to work by mode,Travel Time to Work - 45 To 59 Minutes (MOE),B08134_069M,,,
-travel time to work by mode,Travel Time to Work - 60 Or More Minutes (MOE),B08134_070M,,,
-travel time to work by mode,Travel Time to Work - Bus Or Trolley Bus (MOE),B08134_071M,,,
-travel time to work by mode,Travel Time to Work - Less Than 10 Minutes (MOE),B08134_072M,,,
-travel time to work by mode,Travel Time to Work - 10 To 14 Minutes (MOE),B08134_073M,,,
-travel time to work by mode,Travel Time to Work - 15 To 19 Minutes (MOE),B08134_074M,,,
-travel time to work by mode,Travel Time to Work - 20 To 24 Minutes (MOE),B08134_075M,,,
-travel time to work by mode,Travel Time to Work - 25 To 29 Minutes (MOE),B08134_076M,,,
-travel time to work by mode,Travel Time to Work - 30 To 34 Minutes (MOE),B08134_077M,,,
-travel time to work by mode,Travel Time to Work - 35 To 44 Minutes (MOE),B08134_078M,,,
-travel time to work by mode,Travel Time to Work - 45 To 59 Minutes (MOE),B08134_079M,,,
-travel time to work by mode,Travel Time to Work - 60 Or More Minutes (MOE),B08134_080M,,,
-travel time to work by mode,"Travel Time to Work - Streetcar Or Trolley Car (Carro Publico In Puerto Rico), Subway Or Elevated (MOE)",B08134_081M,,,
-travel time to work by mode,Travel Time to Work - Less Than 10 Minutes (MOE),B08134_082M,,,
-travel time to work by mode,Travel Time to Work - 10 To 14 Minutes (MOE),B08134_083M,,,
-travel time to work by mode,Travel Time to Work - 15 To 19 Minutes (MOE),B08134_084M,,,
-travel time to work by mode,Travel Time to Work - 20 To 24 Minutes (MOE),B08134_085M,,,
-travel time to work by mode,Travel Time to Work - 25 To 29 Minutes (MOE),B08134_086M,,,
-travel time to work by mode,Travel Time to Work - 30 To 34 Minutes (MOE),B08134_087M,,,
-travel time to work by mode,Travel Time to Work - 35 To 44 Minutes (MOE),B08134_088M,,,
-travel time to work by mode,Travel Time to Work - 45 To 59 Minutes (MOE),B08134_089M,,,
-travel time to work by mode,Travel Time to Work - 60 Or More Minutes (MOE),B08134_090M,,,
-travel time to work by mode,Travel Time to Work - Railroad Or Ferryboat (MOE),B08134_091M,,,
-travel time to work by mode,Travel Time to Work - Less Than 10 Minutes (MOE),B08134_092M,,,
-travel time to work by mode,Travel Time to Work - 10 To 14 Minutes (MOE),B08134_093M,,,
-travel time to work by mode,Travel Time to Work - 15 To 19 Minutes (MOE),B08134_094M,,,
-travel time to work by mode,Travel Time to Work - 20 To 24 Minutes (MOE),B08134_095M,,,
-travel time to work by mode,Travel Time to Work - 25 To 29 Minutes (MOE),B08134_096M,,,
-travel time to work by mode,Travel Time to Work - 30 To 34 Minutes (MOE),B08134_097M,,,
-travel time to work by mode,Travel Time to Work - 35 To 44 Minutes (MOE),B08134_098M,,,
-travel time to work by mode,Travel Time to Work - 45 To 59 Minutes (MOE),B08134_099M,,,
-travel time to work by mode,Travel Time to Work - 60 Or More Minutes (MOE),B08134_100M,,,
-travel time to work by mode,Travel Time to Work - Walked (MOE),B08134_101M,,,
-travel time to work by mode,Travel Time to Work - Less Than 10 Minutes (MOE),B08134_102M,,,
-travel time to work by mode,Travel Time to Work - 10 To 14 Minutes (MOE),B08134_103M,,,
-travel time to work by mode,Travel Time to Work - 15 To 19 Minutes (MOE),B08134_104M,,,
-travel time to work by mode,Travel Time to Work - 20 To 24 Minutes (MOE),B08134_105M,,,
-travel time to work by mode,Travel Time to Work - 25 To 29 Minutes (MOE),B08134_106M,,,
-travel time to work by mode,Travel Time to Work - 30 To 34 Minutes (MOE),B08134_107M,,,
-travel time to work by mode,Travel Time to Work - 35 To 44 Minutes (MOE),B08134_108M,,,
-travel time to work by mode,Travel Time to Work - 45 To 59 Minutes (MOE),B08134_109M,,,
-travel time to work by mode,Travel Time to Work - 60 Or More Minutes (MOE),B08134_110M,,,
-travel time to work by mode,"Travel Time to Work - Taxicab, Motorcycle, Bicycle, Or Other Means (MOE)",B08134_111M,,,
-travel time to work by mode,Travel Time to Work - Less Than 10 Minutes (MOE),B08134_112M,,,
-travel time to work by mode,Travel Time to Work - 10 To 14 Minutes (MOE),B08134_113M,,,
-travel time to work by mode,Travel Time to Work - 15 To 19 Minutes (MOE),B08134_114M,,,
-travel time to work by mode,Travel Time to Work - 20 To 24 Minutes (MOE),B08134_115M,,,
-travel time to work by mode,Travel Time to Work - 25 To 29 Minutes (MOE),B08134_116M,,,
-travel time to work by mode,Travel Time to Work - 30 To 34 Minutes (MOE),B08134_117M,,,
-travel time to work by mode,Travel Time to Work - 35 To 44 Minutes (MOE),B08134_118M,,,
-travel time to work by mode,Travel Time to Work - 45 To 59 Minutes (MOE),B08134_119M,,,
-travel time to work by mode,Travel Time to Work - 60 Or More Minutes (MOE),B08134_120M,,,
-household income,Median Household Income In 1999 Dollars,,P053001,,
-households,Total Households,B11005_001E,P014001,P0200001,P015001
-households,Total Households MOE,B11005_001M,,,
-household income,Median Household Income In The Past 12 Months (In 2012 Inflation-Adjusted Dollars),B19013_001E,,,
-household income,Median Household Income In The Past 12 Months (In 2012 Inflation-Adjusted Dollars) (MOE),B19013_001M,,,
-mode by poverty level,Travel Time to Work - Total (MOE),B08122_001M,,,
-mode by poverty level,Travel Time to Work - Below 100 Percent Of The Poverty Level (MOE),B08122_002M,,,
-mode by poverty level,Travel Time to Work - 100 To 149 Percent Of The Poverty Level (MOE),B08122_003M,,,
-mode by poverty level,Travel Time to Work - At Or Above 150 Percent Of The Poverty Level (MOE),B08122_004M,,,
-mode by poverty level,"Travel Time to Work - Car, Truck, Or Van - Drove Alone (MOE)",B08122_005M,,,
-mode by poverty level,Travel Time to Work - Below 100 Percent Of The Poverty Level (MOE),B08122_006M,,,
-mode by poverty level,Travel Time to Work - 100 To 149 Percent Of The Poverty Level (MOE),B08122_007M,,,
-mode by poverty level,Travel Time to Work - At Or Above 150 Percent Of The Poverty Level (MOE),B08122_008M,,,
-mode by poverty level,"Travel Time to Work - Car, Truck, Or Van - Carpooled (MOE)",B08122_009M,,,
-mode by poverty level,Travel Time to Work - Below 100 Percent Of The Poverty Level (MOE),B08122_010M,,,
-mode by poverty level,Travel Time to Work - 100 To 149 Percent Of The Poverty Level (MOE),B08122_011M,,,
-mode by poverty level,Travel Time to Work - At Or Above 150 Percent Of The Poverty Level (MOE),B08122_012M,,,
-mode by poverty level,Travel Time to Work - Public Transportation (Excluding Taxicab) (MOE),B08122_013M,,,
-mode by poverty level,Travel Time to Work - Below 100 Percent Of The Poverty Level (MOE),B08122_014M,,,
-mode by poverty level,Travel Time to Work - 100 To 149 Percent Of The Poverty Level (MOE),B08122_015M,,,
-mode by poverty level,Travel Time to Work - At Or Above 150 Percent Of The Poverty Level (MOE),B08122_016M,,,
-mode by poverty level,Travel Time to Work - Walked (MOE),B08122_017M,,,
-mode by poverty level,Travel Time to Work - Below 100 Percent Of The Poverty Level (MOE),B08122_018M,,,
-mode by poverty level,Travel Time to Work - 100 To 149 Percent Of The Poverty Level (MOE),B08122_019M,,,
-mode by poverty level,Travel Time to Work - At Or Above 150 Percent Of The Poverty Level (MOE),B08122_020M,,,
-mode by poverty level,"Travel Time to Work - Taxicab, Motorcycle, Bicycle, Or Other Means (MOE)",B08122_021M,,,
-mode by poverty level,Travel Time to Work - Below 100 Percent Of The Poverty Level (MOE),B08122_022M,,,
-mode by poverty level,Travel Time to Work - 100 To 149 Percent Of The Poverty Level (MOE),B08122_023M,,,
-mode by poverty level,Travel Time to Work - At Or Above 150 Percent Of The Poverty Level (MOE),B08122_024M,,,
-mode by poverty level,Travel Time to Work - Worked At Home (MOE),B08122_025M,,,
-mode by poverty level,Travel Time to Work - Below 100 Percent Of The Poverty Level (MOE),B08122_026M,,,
-mode by poverty level,Travel Time to Work - 100 To 149 Percent Of The Poverty Level (MOE),B08122_027M,,,
-mode by poverty level,Travel Time to Work - At Or Above 150 Percent Of The Poverty Level (MOE),B08122_028M,,,
-mode by poverty level,Travel Time to Work - Total,B08122_001E,,,
-mode by poverty level,Travel Time to Work - Below 100 Percent Of The Poverty Level,B08122_002E,,,
-mode by poverty level,Travel Time to Work - 100 To 149 Percent Of The Poverty Level,B08122_003E,,,
-mode by poverty level,Travel Time to Work - At Or Above 150 Percent Of The Poverty Level,B08122_004E,,,
-mode by poverty level,"Travel Time to Work - Car, Truck, Or Van - Drove Alone",B08122_005E,,,
-mode by poverty level,Travel Time to Work - Below 100 Percent Of The Poverty Level,B08122_006E,,,
-mode by poverty level,Travel Time to Work - 100 To 149 Percent Of The Poverty Level,B08122_007E,,,
-mode by poverty level,Travel Time to Work - At Or Above 150 Percent Of The Poverty Level,B08122_008E,,,
-mode by poverty level,"Travel Time to Work - Car, Truck, Or Van - Carpooled",B08122_009E,,,
-mode by poverty level,Travel Time to Work - Below 100 Percent Of The Poverty Level,B08122_010E,,,
-mode by poverty level,Travel Time to Work - 100 To 149 Percent Of The Poverty Level,B08122_011E,,,
-mode by poverty level,Travel Time to Work - At Or Above 150 Percent Of The Poverty Level,B08122_012E,,,
-mode by poverty level,Travel Time to Work - Public Transportation (Excluding Taxicab),B08122_013E,,,
-mode by poverty level,Travel Time to Work - Below 100 Percent Of The Poverty Level,B08122_014E,,,
-mode by poverty level,Travel Time to Work - 100 To 149 Percent Of The Poverty Level,B08122_015E,,,
-mode by poverty level,Travel Time to Work - At Or Above 150 Percent Of The Poverty Level,B08122_016E,,,
-mode by poverty level,Travel Time to Work - Walked,B08122_017E,,,
-mode by poverty level,Travel Time to Work - Below 100 Percent Of The Poverty Level,B08122_018E,,,
-mode by poverty level,Travel Time to Work - 100 To 149 Percent Of The Poverty Level,B08122_019E,,,
-mode by poverty level,Travel Time to Work - At Or Above 150 Percent Of The Poverty Level,B08122_020E,,,
-mode by poverty level,"Travel Time to Work - Taxicab, Motorcycle, Bicycle, Or Other Means",B08122_021E,,,
-mode by poverty level,Travel Time to Work - Below 100 Percent Of The Poverty Level,B08122_022E,,,
-mode by poverty level,Travel Time to Work - 100 To 149 Percent Of The Poverty Level,B08122_023E,,,
-mode by poverty level,Travel Time to Work - At Or Above 150 Percent Of The Poverty Level,B08122_024E,,,
-mode by poverty level,Travel Time to Work - Worked At Home,B08122_025E,,,
-mode by poverty level,Travel Time to Work - Below 100 Percent Of The Poverty Level,B08122_026E,,,
-mode by poverty level,Travel Time to Work - 100 To 149 Percent Of The Poverty Level,B08122_027E,,,
-mode by poverty level,Travel Time to Work - At Or Above 150 Percent Of The Poverty Level,B08122_028E,,,
-Race and ethnicity,Total population:,,,P0050001,P008001
-Race and ethnicity,Not Hispanic or Latino:,,,P0050002,P008002
-Race and ethnicity,White alone,,,P0050003,P008003
-Race and ethnicity,Black or African American alone,,,P0050004,P008004
-Race and ethnicity,American Indian and Alaska Native alone,,,P0050005,P008005
-Race and ethnicity,Asian alone,,,P0050006,P008006
-Race and ethnicity,Native Hawaiian and Other Pacific Islander alone,,,P0050007,P008007
-Race and ethnicity,Some Other Race alone,,,P0050008,P008008
-Race and ethnicity,Two or More Races,,,P0050009,P008009
-Race and ethnicity,Hispanic or Latino:,,,P0050010,P008010
-Race and ethnicity,White alone,,,P0050011,P008011
-Race and ethnicity,Black or African American alone,,,P0050012,P008012
-Race and ethnicity,American Indian and Alaska Native alone,,,P0050013,P008013
-Race and ethnicity,Asian alone,,,P0050014,P008014
-Race and ethnicity,Native Hawaiian and Other Pacific Islander alone,,,P0050015,P008015
-Race and ethnicity,Some Other Race alone,,,P0050016,P008016
-Race and ethnicity,Two or More Races,,,P0050017,P008017
-Means Of Transportation To Work By Vehicles Available,Workers 16 years and over in households - Total,B08141_001E,,,
-Means Of Transportation To Work By Vehicles Available,Workers 16 years and over in households - No Vehicle Available,B08141_002E,,,
-Means Of Transportation To Work By Vehicles Available,Workers 16 years and over in households - 1 Vehicle Available,B08141_003E,,,
-Means Of Transportation To Work By Vehicles Available,Workers 16 years and over in households - 2 Vehicles Available,B08141_004E,,,
-Means Of Transportation To Work By Vehicles Available,Workers 16 years and over in households - 3 Or More Vehicles Available,B08141_005E,,,
-Means Of Transportation To Work By Vehicles Available,"Workers 16 years and over in households - Car, Truck, Or Van - Drove Alone",B08141_006E,,,
-Means Of Transportation To Work By Vehicles Available,Workers 16 years and over in households - No Vehicle Available,B08141_007E,,,
-Means Of Transportation To Work By Vehicles Available,Workers 16 years and over in households - 1 Vehicle Available,B08141_008E,,,
-Means Of Transportation To Work By Vehicles Available,Workers 16 years and over in households - 2 Vehicles Available,B08141_009E,,,
-Means Of Transportation To Work By Vehicles Available,Workers 16 years and over in households - 3 Or More Vehicles Available,B08141_010E,,,
-Means Of Transportation To Work By Vehicles Available,"Workers 16 years and over in households - Car, Truck, Or Van - Carpooled",B08141_011E,,,
-Means Of Transportation To Work By Vehicles Available,Workers 16 years and over in households - No Vehicle Available,B08141_012E,,,
-Means Of Transportation To Work By Vehicles Available,Workers 16 years and over in households - 1 Vehicle Available,B08141_013E,,,
-Means Of Transportation To Work By Vehicles Available,Workers 16 years and over in households - 2 Vehicles Available,B08141_014E,,,
-Means Of Transportation To Work By Vehicles Available,Workers 16 years and over in households - 3 Or More Vehicles Available,B08141_015E,,,
-Means Of Transportation To Work By Vehicles Available,Workers 16 years and over in households - Public Transportation (Excluding Taxicab),B08141_016E,,,
-Means Of Transportation To Work By Vehicles Available,Workers 16 years and over in households - No Vehicle Available,B08141_017E,,,
-Means Of Transportation To Work By Vehicles Available,Workers 16 years and over in households - 1 Vehicle Available,B08141_018E,,,
-Means Of Transportation To Work By Vehicles Available,Workers 16 years and over in households - 2 Vehicles Available,B08141_019E,,,
-Means Of Transportation To Work By Vehicles Available,Workers 16 years and over in households - 3 Or More Vehicles Available,B08141_020E,,,
-Means Of Transportation To Work By Vehicles Available,Workers 16 years and over in households - Walked,B08141_021E,,,
-Means Of Transportation To Work By Vehicles Available,Workers 16 years and over in households - No Vehicle Available,B08141_022E,,,
-Means Of Transportation To Work By Vehicles Available,Workers 16 years and over in households - 1 Vehicle Available,B08141_023E,,,
-Means Of Transportation To Work By Vehicles Available,Workers 16 years and over in households - 2 Vehicles Available,B08141_024E,,,
-Means Of Transportation To Work By Vehicles Available,Workers 16 years and over in households - 3 Or More Vehicles Available,B08141_025E,,,
-Means Of Transportation To Work By Vehicles Available,"Workers 16 years and over in households - Taxicab, Motorcycle, Bicycle, Or Other Means",B08141_026E,,,
-Means Of Transportation To Work By Vehicles Available,Workers 16 years and over in households - No Vehicle Available,B08141_027E,,,
-Means Of Transportation To Work By Vehicles Available,Workers 16 years and over in households - 1 Vehicle Available,B08141_028E,,,
-Means Of Transportation To Work By Vehicles Available,Workers 16 years and over in households - 2 Vehicles Available,B08141_029E,,,
-Means Of Transportation To Work By Vehicles Available,Workers 16 years and over in households - 3 Or More Vehicles Available,B08141_030E,,,
-Means Of Transportation To Work By Vehicles Available,Workers 16 years and over in households - Worked At Home,B08141_031E,,,
-Means Of Transportation To Work By Vehicles Available,Workers 16 years and over in households - No Vehicle Available,B08141_032E,,,
-Means Of Transportation To Work By Vehicles Available,Workers 16 years and over in households - 1 Vehicle Available,B08141_033E,,,
-Means Of Transportation To Work By Vehicles Available,Workers 16 years and over in households - 2 Vehicles Available,B08141_034E,,,
-Means Of Transportation To Work By Vehicles Available,Workers 16 years and over in households - 3 Or More Vehicles Available,B08141_035E,,,
-Means Of Transportation To Work By Vehicles Available,Workers 16 years and over in households - Total MOE,B08141_001M,,,
-Means Of Transportation To Work By Vehicles Available,Workers 16 years and over in households - No Vehicle Available MOE,B08141_002M,,,
-Means Of Transportation To Work By Vehicles Available,Workers 16 years and over in households - 1 Vehicle Available MOE,B08141_003M,,,
-Means Of Transportation To Work By Vehicles Available,Workers 16 years and over in households - 2 Vehicles Available MOE,B08141_004M,,,
-Means Of Transportation To Work By Vehicles Available,Workers 16 years and over in households - 3 Or More Vehicles Available MOE,B08141_005M,,,
-Means Of Transportation To Work By Vehicles Available,"Workers 16 years and over in households - Car, Truck, Or Van - Drove Alone MOE",B08141_006M,,,
-Means Of Transportation To Work By Vehicles Available,Workers 16 years and over in households - No Vehicle Available MOE,B08141_007M,,,
-Means Of Transportation To Work By Vehicles Available,Workers 16 years and over in households - 1 Vehicle Available MOE,B08141_008M,,,
-Means Of Transportation To Work By Vehicles Available,Workers 16 years and over in households - 2 Vehicles Available MOE,B08141_009M,,,
-Means Of Transportation To Work By Vehicles Available,Workers 16 years and over in households - 3 Or More Vehicles Available MOE,B08141_010M,,,
-Means Of Transportation To Work By Vehicles Available,"Workers 16 years and over in households - Car, Truck, Or Van - Carpooled MOE",B08141_011M,,,
-Means Of Transportation To Work By Vehicles Available,Workers 16 years and over in households - No Vehicle Available MOE,B08141_012M,,,
-Means Of Transportation To Work By Vehicles Available,Workers 16 years and over in households - 1 Vehicle Available MOE,B08141_013M,,,
-Means Of Transportation To Work By Vehicles Available,Workers 16 years and over in households - 2 Vehicles Available MOE,B08141_014M,,,
-Means Of Transportation To Work By Vehicles Available,Workers 16 years and over in households - 3 Or More Vehicles Available MOE,B08141_015M,,,
-Means Of Transportation To Work By Vehicles Available,Workers 16 years and over in households - Public Transportation (Excluding Taxicab) MOE,B08141_016M,,,
-Means Of Transportation To Work By Vehicles Available,Workers 16 years and over in households - No Vehicle Available MOE,B08141_017M,,,
-Means Of Transportation To Work By Vehicles Available,Workers 16 years and over in households - 1 Vehicle Available MOE,B08141_018M,,,
-Means Of Transportation To Work By Vehicles Available,Workers 16 years and over in households - 2 Vehicles Available MOE,B08141_019M,,,
-Means Of Transportation To Work By Vehicles Available,Workers 16 years and over in households - 3 Or More Vehicles Available MOE,B08141_020M,,,
-Means Of Transportation To Work By Vehicles Available,Workers 16 years and over in households - Walked MOE,B08141_021M,,,
-Means Of Transportation To Work By Vehicles Available,Workers 16 years and over in households - No Vehicle Available MOE,B08141_022M,,,
-Means Of Transportation To Work By Vehicles Available,Workers 16 years and over in households - 1 Vehicle Available MOE,B08141_023M,,,
-Means Of Transportation To Work By Vehicles Available,Workers 16 years and over in households - 2 Vehicles Available MOE,B08141_024M,,,
-Means Of Transportation To Work By Vehicles Available,Workers 16 years and over in households - 3 Or More Vehicles Available MOE,B08141_025M,,,
-Means Of Transportation To Work By Vehicles Available,"Workers 16 years and over in households - Taxicab, Motorcycle, Bicycle, Or Other Means MOE",B08141_026M,,,
-Means Of Transportation To Work By Vehicles Available,Workers 16 years and over in households - No Vehicle Available MOE,B08141_027M,,,
-Means Of Transportation To Work By Vehicles Available,Workers 16 years and over in households - 1 Vehicle Available MOE,B08141_028M,,,
-Means Of Transportation To Work By Vehicles Available,Workers 16 years and over in households - 2 Vehicles Available MOE,B08141_029M,,,
-Means Of Transportation To Work By Vehicles Available,Workers 16 years and over in households - 3 Or More Vehicles Available MOE,B08141_030M,,,
-Means Of Transportation To Work By Vehicles Available,Workers 16 years and over in households - Worked At Home MOE,B08141_031M,,,
-Means Of Transportation To Work By Vehicles Available,Workers 16 years and over in households - No Vehicle Available MOE,B08141_032M,,,
-Means Of Transportation To Work By Vehicles Available,Workers 16 years and over in households - 1 Vehicle Available MOE,B08141_033M,,,
-Means Of Transportation To Work By Vehicles Available,Workers 16 years and over in households - 2 Vehicles Available MOE,B08141_034M,,,
-Means Of Transportation To Work By Vehicles Available,Workers 16 years and over in households - 3 Or More Vehicles Available MOE,B08141_035M,,,
-Means Of Transportation To Work,Total,B08301_001E,P030001,,
-Means Of Transportation To Work,"Car, Truck, Or Van",B08301_002E,P030002,,
-Means Of Transportation To Work,Drove Alone,B08301_003E,P030003,,
-Means Of Transportation To Work,Carpooled,B08301_004E,P030004,,
-Means Of Transportation To Work,Public Transportation (Excluding Taxicab),B08301_010E,P030005,,
-Means Of Transportation To Work,Bus Or Trolley Bus,B08301_011E,P030006,,
-Means Of Transportation To Work,Streetcar Or Trolley Car (Carro Publico In Puerto Rico),B08301_012E,P030007,,
-Means Of Transportation To Work,Subway Or Elevated,B08301_013E,P030008,,
-Means Of Transportation To Work,Railroad,B08301_014E,P030009,,
-Means Of Transportation To Work,Ferryboat,B08301_015E,P030010,,
-Means Of Transportation To Work,Taxicab,B08301_016E,P030011,,
-Means Of Transportation To Work,Motorcycle,B08301_017E,P030012,,
-Means Of Transportation To Work,Bicycle,B08301_018E,P030013,,
-Means Of Transportation To Work,Walked,B08301_019E,P030014,,
-Means Of Transportation To Work,Other Means,B08301_020E,P030015,,
-Means Of Transportation To Work,Worked At Home,B08301_021E,P030016,,
-Means Of Transportation To Work,Total MOE,B08301_001M,,,
-Means Of Transportation To Work,"Car, Truck, Or Van MOE",B08301_002M,,,
-Means Of Transportation To Work,Drove Alone MOE,B08301_003M,,,
-Means Of Transportation To Work,Carpooled MOE,B08301_004M,,,
-Means Of Transportation To Work,Public Transportation (Excluding Taxicab) MOE,B08301_010M,,,
-Means Of Transportation To Work,Bus Or Trolley Bus MOE,B08301_011M,,,
-Means Of Transportation To Work,Streetcar Or Trolley Car (Carro Publico In Puerto Rico) MOE,B08301_012M,,,
-Means Of Transportation To Work,Subway Or Elevated MOE,B08301_013M,,,
-Means Of Transportation To Work,Railroad MOE,B08301_014M,,,
-Means Of Transportation To Work,Ferryboat MOE,B08301_015M,,,
-Means Of Transportation To Work,Taxicab MOE,B08301_016M,,,
-Means Of Transportation To Work,Motorcycle MOE,B08301_017M,,,
-Means Of Transportation To Work,Bicycle MOE,B08301_018M,,,
-Means Of Transportation To Work,Walked MOE,B08301_019M,,,
-Means Of Transportation To Work,Other Means MOE,B08301_020M,,,
-Means Of Transportation To Work,Worked At Home MOE,B08301_021M,,,
-Sex By Educational Attainment For The Population 25 Years And Over,Total,B15002_001E,P037001,,
-Sex By Educational Attainment For The Population 25 Years And Over,Male,B15002_002E,P037002,,
-Sex By Educational Attainment For The Population 25 Years And Over,No Schooling Completed,B15002_003E,P037003,,
-Sex By Educational Attainment For The Population 25 Years And Over,Nursery To 4th Grade,B15002_004E,P037004,,
-Sex By Educational Attainment For The Population 25 Years And Over,5th And 6th Grade,B15002_005E,P037005,,
-Sex By Educational Attainment For The Population 25 Years And Over,7th And 8th Grade,B15002_006E,P037006,,
-Sex By Educational Attainment For The Population 25 Years And Over,9th Grade,B15002_007E,P037007,,
-Sex By Educational Attainment For The Population 25 Years And Over,10th Grade,B15002_008E,P037008,,
-Sex By Educational Attainment For The Population 25 Years And Over,11th Grade,B15002_009E,P037009,,
-Sex By Educational Attainment For The Population 25 Years And Over,"12th Grade, No Diploma",B15002_010E,P037010,,
-Sex By Educational Attainment For The Population 25 Years And Over,"High School Graduate, Ged, Or Alternative",B15002_011E,P037011,,
-Sex By Educational Attainment For The Population 25 Years And Over,"Some College, Less Than 1 Year",B15002_012E,P037012,,
-Sex By Educational Attainment For The Population 25 Years And Over,"Some College, 1 Or More Years, No Degree",B15002_013E,P037013,,
-Sex By Educational Attainment For The Population 25 Years And Over,Associate's Degree,B15002_014E,P037014,,
-Sex By Educational Attainment For The Population 25 Years And Over,Bachelor's Degree,B15002_015E,P037015,,
-Sex By Educational Attainment For The Population 25 Years And Over,Master's Degree,B15002_016E,P037016,,
-Sex By Educational Attainment For The Population 25 Years And Over,Professional School Degree,B15002_017E,P037017,,
-Sex By Educational Attainment For The Population 25 Years And Over,Doctorate Degree,B15002_018E,P037018,,
-Sex By Educational Attainment For The Population 25 Years And Over,Female,B15002_019E,P037019,,
-Sex By Educational Attainment For The Population 25 Years And Over,No Schooling Completed,B15002_020E,P037020,,
-Sex By Educational Attainment For The Population 25 Years And Over,Nursery To 4th Grade,B15002_021E,P037021,,
-Sex By Educational Attainment For The Population 25 Years And Over,5th And 6th Grade,B15002_022E,P037022,,
-Sex By Educational Attainment For The Population 25 Years And Over,7th And 8th Grade,B15002_023E,P037023,,
-Sex By Educational Attainment For The Population 25 Years And Over,9th Grade,B15002_024E,P037024,,
-Sex By Educational Attainment For The Population 25 Years And Over,10th Grade,B15002_025E,P037025,,
-Sex By Educational Attainment For The Population 25 Years And Over,11th Grade,B15002_026E,P037026,,
-Sex By Educational Attainment For The Population 25 Years And Over,"12th Grade, No Diploma",B15002_027E,P037027,,
-Sex By Educational Attainment For The Population 25 Years And Over,"High School Graduate, Ged, Or Alternative",B15002_028E,P037028,,
-Sex By Educational Attainment For The Population 25 Years And Over,"Some College, Less Than 1 Year",B15002_029E,P037029,,
-Sex By Educational Attainment For The Population 25 Years And Over,"Some College, 1 Or More Years, No Degree",B15002_030E,P037030,,
-Sex By Educational Attainment For The Population 25 Years And Over,Associate's Degree,B15002_031E,P037031,,
-Sex By Educational Attainment For The Population 25 Years And Over,Bachelor's Degree,B15002_032E,P037032,,
-Sex By Educational Attainment For The Population 25 Years And Over,Master's Degree,B15002_033E,P037033,,
-Sex By Educational Attainment For The Population 25 Years And Over,Professional School Degree,B15002_034E,P037034,,
-Sex By Educational Attainment For The Population 25 Years And Over,Doctorate Degree,B15002_035E,P037035,,
-Sex By Educational Attainment For The Population 25 Years And Over,Total MOE,B15002_001M,,,
-Sex By Educational Attainment For The Population 25 Years And Over,Male MOE,B15002_002M,,,
-Sex By Educational Attainment For The Population 25 Years And Over,No Schooling Completed MOE,B15002_003M,,,
-Sex By Educational Attainment For The Population 25 Years And Over,Nursery To 4th Grade MOE,B15002_004M,,,
-Sex By Educational Attainment For The Population 25 Years And Over,5th And 6th Grade MOE,B15002_005M,,,
-Sex By Educational Attainment For The Population 25 Years And Over,7th And 8th Grade MOE,B15002_006M,,,
-Sex By Educational Attainment For The Population 25 Years And Over,9th Grade MOE,B15002_007M,,,
-Sex By Educational Attainment For The Population 25 Years And Over,10th Grade MOE,B15002_008M,,,
-Sex By Educational Attainment For The Population 25 Years And Over,11th Grade MOE,B15002_009M,,,
-Sex By Educational Attainment For The Population 25 Years And Over,"12th Grade, No Diploma MOE",B15002_010M,,,
-Sex By Educational Attainment For The Population 25 Years And Over,"High School Graduate, Ged, Or Alternative MOE",B15002_011M,,,
-Sex By Educational Attainment For The Population 25 Years And Over,"Some College, Less Than 1 Year MOE",B15002_012M,,,
-Sex By Educational Attainment For The Population 25 Years And Over,"Some College, 1 Or More Years, No Degree MOE",B15002_013M,,,
-Sex By Educational Attainment For The Population 25 Years And Over,Associate's Degree MOE,B15002_014M,,,
-Sex By Educational Attainment For The Population 25 Years And Over,Bachelor's Degree MOE,B15002_015M,,,
-Sex By Educational Attainment For The Population 25 Years And Over,Master's Degree MOE,B15002_016M,,,
-Sex By Educational Attainment For The Population 25 Years And Over,Professional School Degree MOE,B15002_017M,,,
-Sex By Educational Attainment For The Population 25 Years And Over,Doctorate Degree MOE,B15002_018M,,,
-Sex By Educational Attainment For The Population 25 Years And Over,Female MOE,B15002_019M,,,
-Sex By Educational Attainment For The Population 25 Years And Over,No Schooling Completed MOE,B15002_020M,,,
-Sex By Educational Attainment For The Population 25 Years And Over,Nursery To 4th Grade MOE,B15002_021M,,,
-Sex By Educational Attainment For The Population 25 Years And Over,5th And 6th Grade MOE,B15002_022M,,,
-Sex By Educational Attainment For The Population 25 Years And Over,7th And 8th Grade MOE,B15002_023M,,,
-Sex By Educational Attainment For The Population 25 Years And Over,9th Grade MOE,B15002_024M,,,
-Sex By Educational Attainment For The Population 25 Years And Over,10th Grade MOE,B15002_025M,,,
-Sex By Educational Attainment For The Population 25 Years And Over,11th Grade MOE,B15002_026M,,,
-Sex By Educational Attainment For The Population 25 Years And Over,"12th Grade, No Diploma MOE",B15002_027M,,,
-Sex By Educational Attainment For The Population 25 Years And Over,"High School Graduate, Ged, Or Alternative MOE",B15002_028M,,,
-Sex By Educational Attainment For The Population 25 Years And Over,"Some College, Less Than 1 Year MOE",B15002_029M,,,
-Sex By Educational Attainment For The Population 25 Years And Over,"Some College, 1 Or More Years, No Degree MOE",B15002_030M,,,
-Sex By Educational Attainment For The Population 25 Years And Over,Associate's Degree MOE,B15002_031M,,,
-Sex By Educational Attainment For The Population 25 Years And Over,Bachelor's Degree MOE,B15002_032M,,,
-Sex By Educational Attainment For The Population 25 Years And Over,Master's Degree MOE,B15002_033M,,,
-Sex By Educational Attainment For The Population 25 Years And Over,Professional School Degree MOE,B15002_034M,,,
-Sex By Educational Attainment For The Population 25 Years And Over,Doctorate Degree MOE,B15002_035M,,,
-Housing Units,Total,,,H0030001,H003001
-Housing Units,Occupied,,,H0030002,H003002
-Housing Units,Vacant,,,H0030003,H003003
-Housing Units,Occupied housing units:,,,H0040001,H004001
-Housing Units,Owned with a mortgage or a loan,,,H0040002,
-Housing Units,Owned free and clear,,,H0040003,
-Housing Units,Owner occupied,,,,H004002
-Housing Units,Renter occupied,,,H0040004,H004003
-Poverty by race,Black Total,B17020B_001E,P159B001,,
-Poverty by race,Black Income In The Past 12 Months Below Poverty Level,B17020B_002E,P159B002,,
-Poverty by race,Black Income In The Past 12 Months At Or Above Poverty Level,B17020B_010E,P159B010,,
-Poverty by race,Indian Total,B17020C_001E,P159C001,,
-Poverty by race,Indian Income In The Past 12 Months Below Poverty Level,B17020C_002E,P159C002,,
-Poverty by race,Indian Income In The Past 12 Months At Or Above Poverty Level,B17020C_010E,P159C010,,
-Poverty by race,Asian Total,B17020D_001E,P159D001,,
-Poverty by race,Asian Income In The Past 12 Months Below Poverty Level,B17020D_002E,P159D002,,
-Poverty by race,Asian Income In The Past 12 Months At Or Above Poverty Level,B17020D_010E,P159D010,,
-Poverty by race,Pacific Islander Total,B17020E_001E,P159E001,,
-Poverty by race,Pacific Islander Income In The Past 12 Months Below Poverty Level,B17020E_002E,P159E002,,
-Poverty by race,Pacific Islander Income In The Past 12 Months At Or Above Poverty Level,B17020E_010E,P159E010,,
-Poverty by race,Other Total,B17020F_001E,P159F001,,
-Poverty by race,Other Income In The Past 12 Months Below Poverty Level,B17020F_002E,P159F002,,
-Poverty by race,Other Income In The Past 12 Months At Or Above Poverty Level,B17020F_010E,P159F010,,
-Poverty by race,Mixed Total,B17020G_001E,P159G001,,
-Poverty by race,Mixed Income In The Past 12 Months Below Poverty Level,B17020G_002E,P159G002,,
-Poverty by race,Mixed Income In The Past 12 Months At Or Above Poverty Level,B17020G_010E,P159G010,,
-Poverty by race,White Total,B17020H_001E,P159I001,,
-Poverty by race,White Income In The Past 12 Months Below Poverty Level,B17020H_002E,P159I002,,
-Poverty by race,White Income In The Past 12 Months At Or Above Poverty Level,B17020H_010E,P159I010,,
-Poverty by race,Hispanic Total,B17020I_001E,P159H001,,
-Poverty by race,Hispanic Income In The Past 12 Months Below Poverty Level,B17020I_002E,P159H002,,
-Poverty by race,Hispanic Income In The Past 12 Months At Or Above Poverty Level,B17020I_010E,P159H010,,
-Poverty by race,Black Total MOE,B17020B_001M,,,
-Poverty by race,Black Income In The Past 12 Months Below Poverty Level MOE,B17020B_002M,,,
-Poverty by race,Black Income In The Past 12 Months At Or Above Poverty Level MOE,B17020B_010M,,,
-Poverty by race,Indian Total MOE,B17020C_001M,,,
-Poverty by race,Indian Income In The Past 12 Months Below Poverty Level MOE,B17020C_002M,,,
-Poverty by race,Indian Income In The Past 12 Months At Or Above Poverty Level MOE,B17020C_010M,,,
-Poverty by race,Asian Total MOE,B17020D_001M,,,
-Poverty by race,Asian Income In The Past 12 Months Below Poverty Level MOE,B17020D_002M,,,
-Poverty by race,Asian Income In The Past 12 Months At Or Above Poverty Level MOE,B17020D_010M,,,
-Poverty by race,Pacific Islander Total MOE,B17020E_001M,,,
-Poverty by race,Pacific Islander Income In The Past 12 Months Below Poverty Level MOE,B17020E_002M,,,
-Poverty by race,Pacific Islander Income In The Past 12 Months At Or Above Poverty Level MOE,B17020E_010M,,,
-Poverty by race,Other Total MOE,B17020F_001M,,,
-Poverty by race,Other Income In The Past 12 Months Below Poverty Level MOE,B17020F_002M,,,
-Poverty by race,Other Income In The Past 12 Months At Or Above Poverty Level MOE,B17020F_010M,,,
-Poverty by race,Mixed Total MOE,B17020G_001M,,,
-Poverty by race,Mixed Income In The Past 12 Months Below Poverty Level MOE,B17020G_002M,,,
-Poverty by race,Mixed Income In The Past 12 Months At Or Above Poverty Level MOE,B17020G_010M,,,
-Poverty by race,White Total MOE,B17020H_001M,,,
-Poverty by race,White Income In The Past 12 Months Below Poverty Level MOE,B17020H_002M,,,
-Poverty by race,White Income In The Past 12 Months At Or Above Poverty Level MOE,B17020H_010M,,,
-Poverty by race,Hispanic Total MOE,B17020I_001M,,,
-Poverty by race,Hispanic Income In The Past 12 Months Below Poverty Level MOE,B17020I_002M,,,
-Poverty by race,Hispanic Income In The Past 12 Months At Or Above Poverty Level MOE,B17020I_010M,,,
-Sex,Total population:,,,P0120001,P012001
-Sex,Male,,,P0120002,P012002
-Sex,Female,,,P0120026,P012026
-Employment status,Total,B23001_001E,P043001,,
-Employment status,Male,B23001_002E,P043002,,
-Employment status,16 To 19 Years,B23001_003E,,,
-Employment status,In Labor Force,B23001_004E,,,
-Employment status,In Armed Forces,B23001_005E,,,
-Employment status,Civilian,B23001_006E,,,
-Employment status,Employed,B23001_007E,,,
-Employment status,Unemployed,B23001_008E,,,
-Employment status,Not In Labor Force,B23001_009E,,,
-Employment status,20 And 21 Years,B23001_010E,,,
-Employment status,In Labor Force,B23001_011E,,,
-Employment status,In Armed Forces,B23001_012E,,,
-Employment status,Civilian,B23001_013E,,,
-Employment status,Employed,B23001_014E,,,
-Employment status,Unemployed,B23001_015E,,,
-Employment status,Not In Labor Force,B23001_016E,,,
-Employment status,22 To 24 Years,B23001_017E,,,
-Employment status,In Labor Force,B23001_018E,,,
-Employment status,In Armed Forces,B23001_019E,,,
-Employment status,Civilian,B23001_020E,,,
-Employment status,Employed,B23001_021E,,,
-Employment status,Unemployed,B23001_022E,,,
-Employment status,Not In Labor Force,B23001_023E,,,
-Employment status,25 To 29 Years,B23001_024E,,,
-Employment status,In Labor Force,B23001_025E,,,
-Employment status,In Armed Forces,B23001_026E,,,
-Employment status,Civilian,B23001_027E,,,
-Employment status,Employed,B23001_028E,,,
-Employment status,Unemployed,B23001_029E,,,
-Employment status,Not In Labor Force,B23001_030E,,,
-Employment status,30 To 34 Years,B23001_031E,,,
-Employment status,In Labor Force,B23001_032E,,,
-Employment status,In Armed Forces,B23001_033E,,,
-Employment status,Civilian,B23001_034E,,,
-Employment status,Employed,B23001_035E,,,
-Employment status,Unemployed,B23001_036E,,,
-Employment status,Not In Labor Force,B23001_037E,,,
-Employment status,35 To 44 Years,B23001_038E,,,
-Employment status,In Labor Force,B23001_039E,,,
-Employment status,In Armed Forces,B23001_040E,,,
-Employment status,Civilian,B23001_041E,,,
-Employment status,Employed,B23001_042E,,,
-Employment status,Unemployed,B23001_043E,,,
-Employment status,Not In Labor Force,B23001_044E,,,
-Employment status,45 To 54 Years,B23001_045E,,,
-Employment status,In Labor Force,B23001_046E,,,
-Employment status,In Armed Forces,B23001_047E,,,
-Employment status,Civilian,B23001_048E,,,
-Employment status,Employed,B23001_049E,,,
-Employment status,Unemployed,B23001_050E,,,
-Employment status,Not In Labor Force,B23001_051E,,,
-Employment status,55 To 59 Years,B23001_052E,,,
-Employment status,In Labor Force,B23001_053E,,,
-Employment status,In Armed Forces,B23001_054E,,,
-Employment status,Civilian,B23001_055E,,,
-Employment status,Employed,B23001_056E,,,
-Employment status,Unemployed,B23001_057E,,,
-Employment status,Not In Labor Force,B23001_058E,,,
-Employment status,60 And 61 Years,B23001_059E,,,
-Employment status,In Labor Force,B23001_060E,,,
-Employment status,In Armed Forces,B23001_061E,,,
-Employment status,Civilian,B23001_062E,,,
-Employment status,Employed,B23001_063E,,,
-Employment status,Unemployed,B23001_064E,,,
-Employment status,Not In Labor Force,B23001_065E,,,
-Employment status,62 To 64 Years,B23001_066E,,,
-Employment status,In Labor Force,B23001_067E,,,
-Employment status,In Armed Forces,B23001_068E,,,
-Employment status,Civilian,B23001_069E,,,
-Employment status,Employed,B23001_070E,,,
-Employment status,Unemployed,B23001_071E,,,
-Employment status,Not In Labor Force,B23001_072E,,,
-Employment status,65 To 69 Years,B23001_073E,,,
-Employment status,In Labor Force,B23001_074E,,,
-Employment status,Employed,B23001_075E,,,
-Employment status,Unemployed,B23001_076E,,,
-Employment status,Not In Labor Force,B23001_077E,,,
-Employment status,70 To 74 Years,B23001_078E,,,
-Employment status,In Labor Force,B23001_079E,,,
-Employment status,Employed,B23001_080E,,,
-Employment status,Unemployed,B23001_081E,,,
-Employment status,Not In Labor Force,B23001_082E,,,
-Employment status,75 Years And Over,B23001_083E,,,
-Employment status,In Labor Force,B23001_084E,,,
-Employment status,Employed,B23001_085E,,,
-Employment status,Unemployed,B23001_086E,,,
-Employment status,Not In Labor Force,B23001_087E,,,
-Employment status,Female,B23001_088E,P043009,,
-Employment status,16 To 19 Years,B23001_089E,,,
-Employment status,In Labor Force,B23001_090E,,,
-Employment status,In Armed Forces,B23001_091E,,,
-Employment status,Civilian,B23001_092E,,,
-Employment status,Employed,B23001_093E,,,
-Employment status,Unemployed,B23001_094E,,,
-Employment status,Not In Labor Force,B23001_095E,,,
-Employment status,20 And 21 Years,B23001_096E,,,
-Employment status,In Labor Force,B23001_097E,,,
-Employment status,In Armed Forces,B23001_098E,,,
-Employment status,Civilian,B23001_099E,,,
-Employment status,Employed,B23001_100E,,,
-Employment status,Unemployed,B23001_101E,,,
-Employment status,Not In Labor Force,B23001_102E,,,
-Employment status,22 To 24 Years,B23001_103E,,,
-Employment status,In Labor Force,B23001_104E,,,
-Employment status,In Armed Forces,B23001_105E,,,
-Employment status,Civilian,B23001_106E,,,
-Employment status,Employed,B23001_107E,,,
-Employment status,Unemployed,B23001_108E,,,
-Employment status,Not In Labor Force,B23001_109E,,,
-Employment status,25 To 29 Years,B23001_110E,,,
-Employment status,In Labor Force,B23001_111E,,,
-Employment status,In Armed Forces,B23001_112E,,,
-Employment status,Civilian,B23001_113E,,,
-Employment status,Employed,B23001_114E,,,
-Employment status,Unemployed,B23001_115E,,,
-Employment status,Not In Labor Force,B23001_116E,,,
-Employment status,30 To 34 Years,B23001_117E,,,
-Employment status,In Labor Force,B23001_118E,,,
-Employment status,In Armed Forces,B23001_119E,,,
-Employment status,Civilian,B23001_120E,,,
-Employment status,Employed,B23001_121E,,,
-Employment status,Unemployed,B23001_122E,,,
-Employment status,Not In Labor Force,B23001_123E,,,
-Employment status,35 To 44 Years,B23001_124E,,,
-Employment status,In Labor Force,B23001_125E,,,
-Employment status,In Armed Forces,B23001_126E,,,
-Employment status,Civilian,B23001_127E,,,
-Employment status,Employed,B23001_128E,,,
-Employment status,Unemployed,B23001_129E,,,
-Employment status,Not In Labor Force,B23001_130E,,,
-Employment status,45 To 54 Years,B23001_131E,,,
-Employment status,In Labor Force,B23001_132E,,,
-Employment status,In Armed Forces,B23001_133E,,,
-Employment status,Civilian,B23001_134E,,,
-Employment status,Employed,B23001_135E,,,
-Employment status,Unemployed,B23001_136E,,,
-Employment status,Not In Labor Force,B23001_137E,,,
-Employment status,55 To 59 Years,B23001_138E,,,
-Employment status,In Labor Force,B23001_139E,,,
-Employment status,In Armed Forces,B23001_140E,,,
-Employment status,Civilian,B23001_141E,,,
-Employment status,Employed,B23001_142E,,,
-Employment status,Unemployed,B23001_143E,,,
-Employment status,Not In Labor Force,B23001_144E,,,
-Employment status,60 And 61 Years,B23001_145E,,,
-Employment status,In Labor Force,B23001_146E,,,
-Employment status,In Armed Forces,B23001_147E,,,
-Employment status,Civilian,B23001_148E,,,
-Employment status,Employed,B23001_149E,,,
-Employment status,Unemployed,B23001_150E,,,
-Employment status,Not In Labor Force,B23001_151E,,,
-Employment status,62 To 64 Years,B23001_152E,,,
-Employment status,In Labor Force,B23001_153E,,,
-Employment status,In Armed Forces,B23001_154E,,,
-Employment status,Civilian,B23001_155E,,,
-Employment status,Employed,B23001_156E,,,
-Employment status,Unemployed,B23001_157E,,,
-Employment status,Not In Labor Force,B23001_158E,,,
-Employment status,65 To 69 Years,B23001_159E,,,
-Employment status,In Labor Force,B23001_160E,,,
-Employment status,Employed,B23001_161E,,,
-Employment status,Unemployed,B23001_162E,,,
-Employment status,Not In Labor Force,B23001_163E,,,
-Employment status,70 To 74 Years,B23001_164E,,,
-Employment status,In Labor Force,B23001_165E,,,
-Employment status,Employed,B23001_166E,,,
-Employment status,Unemployed,B23001_167E,,,
-Employment status,Not In Labor Force,B23001_168E,,,
-Employment status,75 Years And Over,B23001_169E,,,
-Employment status,In Labor Force,B23001_170E,,,
-Employment status,Employed,B23001_171E,,,
-Employment status,Unemployed,B23001_172E,,,
-Employment status,Not In Labor Force,B23001_173E,,,
-Employment status,Total MOE,B23001_001M,,,
-Employment status,Male MOE,B23001_002M,,,
-Employment status,16 To 19 Years MOE,B23001_003M,,,
-Employment status,In Labor Force MOE,B23001_004M,,,
-Employment status,In Armed Forces MOE,B23001_005M,,,
-Employment status,Civilian MOE,B23001_006M,,,
-Employment status,Employed MOE,B23001_007M,,,
-Employment status,Unemployed MOE,B23001_008M,,,
-Employment status,Not In Labor Force MOE,B23001_009M,,,
-Employment status,20 And 21 Years MOE,B23001_010M,,,
-Employment status,In Labor Force MOE,B23001_011M,,,
-Employment status,In Armed Forces MOE,B23001_012M,,,
-Employment status,Civilian MOE,B23001_013M,,,
-Employment status,Employed MOE,B23001_014M,,,
-Employment status,Unemployed MOE,B23001_015M,,,
-Employment status,Not In Labor Force MOE,B23001_016M,,,
-Employment status,22 To 24 Years MOE,B23001_017M,,,
-Employment status,In Labor Force MOE,B23001_018M,,,
-Employment status,In Armed Forces MOE,B23001_019M,,,
-Employment status,Civilian MOE,B23001_020M,,,
-Employment status,Employed MOE,B23001_021M,,,
-Employment status,Unemployed MOE,B23001_022M,,,
-Employment status,Not In Labor Force MOE,B23001_023M,,,
-Employment status,25 To 29 Years MOE,B23001_024M,,,
-Employment status,In Labor Force MOE,B23001_025M,,,
-Employment status,In Armed Forces MOE,B23001_026M,,,
-Employment status,Civilian MOE,B23001_027M,,,
-Employment status,Employed MOE,B23001_028M,,,
-Employment status,Unemployed MOE,B23001_029M,,,
-Employment status,Not In Labor Force MOE,B23001_030M,,,
-Employment status,30 To 34 Years MOE,B23001_031M,,,
-Employment status,In Labor Force MOE,B23001_032M,,,
-Employment status,In Armed Forces MOE,B23001_033M,,,
-Employment status,Civilian MOE,B23001_034M,,,
-Employment status,Employed MOE,B23001_035M,,,
-Employment status,Unemployed MOE,B23001_036M,,,
-Employment status,Not In Labor Force MOE,B23001_037M,,,
-Employment status,35 To 44 Years MOE,B23001_038M,,,
-Employment status,In Labor Force MOE,B23001_039M,,,
-Employment status,In Armed Forces MOE,B23001_040M,,,
-Employment status,Civilian MOE,B23001_041M,,,
-Employment status,Employed MOE,B23001_042M,,,
-Employment status,Unemployed MOE,B23001_043M,,,
-Employment status,Not In Labor Force MOE,B23001_044M,,,
-Employment status,45 To 54 Years MOE,B23001_045M,,,
-Employment status,In Labor Force MOE,B23001_046M,,,
-Employment status,In Armed Forces MOE,B23001_047M,,,
-Employment status,Civilian MOE,B23001_048M,,,
-Employment status,Employed MOE,B23001_049M,,,
-Employment status,Unemployed MOE,B23001_050M,,,
-Employment status,Not In Labor Force MOE,B23001_051M,,,
-Employment status,55 To 59 Years MOE,B23001_052M,,,
-Employment status,In Labor Force MOE,B23001_053M,,,
-Employment status,In Armed Forces MOE,B23001_054M,,,
-Employment status,Civilian MOE,B23001_055M,,,
-Employment status,Employed MOE,B23001_056M,,,
-Employment status,Unemployed MOE,B23001_057M,,,
-Employment status,Not In Labor Force MOE,B23001_058M,,,
-Employment status,60 And 61 Years MOE,B23001_059M,,,
-Employment status,In Labor Force MOE,B23001_060M,,,
-Employment status,In Armed Forces MOE,B23001_061M,,,
-Employment status,Civilian MOE,B23001_062M,,,
-Employment status,Employed MOE,B23001_063M,,,
-Employment status,Unemployed MOE,B23001_064M,,,
-Employment status,Not In Labor Force MOE,B23001_065M,,,
-Employment status,62 To 64 Years MOE,B23001_066M,,,
-Employment status,In Labor Force MOE,B23001_067M,,,
-Employment status,In Armed Forces MOE,B23001_068M,,,
-Employment status,Civilian MOE,B23001_069M,,,
-Employment status,Employed MOE,B23001_070M,,,
-Employment status,Unemployed MOE,B23001_071M,,,
-Employment status,Not In Labor Force MOE,B23001_072M,,,
-Employment status,65 To 69 Years MOE,B23001_073M,,,
-Employment status,In Labor Force MOE,B23001_074M,,,
-Employment status,Employed MOE,B23001_075M,,,
-Employment status,Unemployed MOE,B23001_076M,,,
-Employment status,Not In Labor Force MOE,B23001_077M,,,
-Employment status,70 To 74 Years MOE,B23001_078M,,,
-Employment status,In Labor Force MOE,B23001_079M,,,
-Employment status,Employed MOE,B23001_080M,,,
-Employment status,Unemployed MOE,B23001_081M,,,
-Employment status,Not In Labor Force MOE,B23001_082M,,,
-Employment status,75 Years And Over MOE,B23001_083M,,,
-Employment status,In Labor Force MOE,B23001_084M,,,
-Employment status,Employed MOE,B23001_085M,,,
-Employment status,Unemployed MOE,B23001_086M,,,
-Employment status,Not In Labor Force MOE,B23001_087M,,,
-Employment status,Female MOE,B23001_088M,,,
-Employment status,16 To 19 Years MOE,B23001_089M,,,
-Employment status,In Labor Force MOE,B23001_090M,,,
-Employment status,In Armed Forces MOE,B23001_091M,,,
-Employment status,Civilian MOE,B23001_092M,,,
-Employment status,Employed MOE,B23001_093M,,,
-Employment status,Unemployed MOE,B23001_094M,,,
-Employment status,Not In Labor Force MOE,B23001_095M,,,
-Employment status,20 And 21 Years MOE,B23001_096M,,,
-Employment status,In Labor Force MOE,B23001_097M,,,
-Employment status,In Armed Forces MOE,B23001_098M,,,
-Employment status,Civilian MOE,B23001_099M,,,
-Employment status,Employed MOE,B23001_100M,,,
-Employment status,Unemployed MOE,B23001_101M,,,
-Employment status,Not In Labor Force MOE,B23001_102M,,,
-Employment status,22 To 24 Years MOE,B23001_103M,,,
-Employment status,In Labor Force MOE,B23001_104M,,,
-Employment status,In Armed Forces MOE,B23001_105M,,,
-Employment status,Civilian MOE,B23001_106M,,,
-Employment status,Employed MOE,B23001_107M,,,
-Employment status,Unemployed MOE,B23001_108M,,,
-Employment status,Not In Labor Force MOE,B23001_109M,,,
-Employment status,25 To 29 Years MOE,B23001_110M,,,
-Employment status,In Labor Force MOE,B23001_111M,,,
-Employment status,In Armed Forces MOE,B23001_112M,,,
-Employment status,Civilian MOE,B23001_113M,,,
-Employment status,Employed MOE,B23001_114M,,,
-Employment status,Unemployed MOE,B23001_115M,,,
-Employment status,Not In Labor Force MOE,B23001_116M,,,
-Employment status,30 To 34 Years MOE,B23001_117M,,,
-Employment status,In Labor Force MOE,B23001_118M,,,
-Employment status,In Armed Forces MOE,B23001_119M,,,
-Employment status,Civilian MOE,B23001_120M,,,
-Employment status,Employed MOE,B23001_121M,,,
-Employment status,Unemployed MOE,B23001_122M,,,
-Employment status,Not In Labor Force MOE,B23001_123M,,,
-Employment status,35 To 44 Years MOE,B23001_124M,,,
-Employment status,In Labor Force MOE,B23001_125M,,,
-Employment status,In Armed Forces MOE,B23001_126M,,,
-Employment status,Civilian MOE,B23001_127M,,,
-Employment status,Employed MOE,B23001_128M,,,
-Employment status,Unemployed MOE,B23001_129M,,,
-Employment status,Not In Labor Force MOE,B23001_130M,,,
-Employment status,45 To 54 Years MOE,B23001_131M,,,
-Employment status,In Labor Force MOE,B23001_132M,,,
-Employment status,In Armed Forces MOE,B23001_133M,,,
-Employment status,Civilian MOE,B23001_134M,,,
-Employment status,Employed MOE,B23001_135M,,,
-Employment status,Unemployed MOE,B23001_136M,,,
-Employment status,Not In Labor Force MOE,B23001_137M,,,
-Employment status,55 To 59 Years MOE,B23001_138M,,,
-Employment status,In Labor Force MOE,B23001_139M,,,
-Employment status,In Armed Forces MOE,B23001_140M,,,
-Employment status,Civilian MOE,B23001_141M,,,
-Employment status,Employed MOE,B23001_142M,,,
-Employment status,Unemployed MOE,B23001_143M,,,
-Employment status,Not In Labor Force MOE,B23001_144M,,,
-Employment status,60 And 61 Years MOE,B23001_145M,,,
-Employment status,In Labor Force MOE,B23001_146M,,,
-Employment status,In Armed Forces MOE,B23001_147M,,,
-Employment status,Civilian MOE,B23001_148M,,,
-Employment status,Employed MOE,B23001_149M,,,
-Employment status,Unemployed MOE,B23001_150M,,,
-Employment status,Not In Labor Force MOE,B23001_151M,,,
-Employment status,62 To 64 Years MOE,B23001_152M,,,
-Employment status,In Labor Force MOE,B23001_153M,,,
-Employment status,In Armed Forces MOE,B23001_154M,,,
-Employment status,Civilian MOE,B23001_155M,,,
-Employment status,Employed MOE,B23001_156M,,,
-Employment status,Unemployed MOE,B23001_157M,,,
-Employment status,Not In Labor Force MOE,B23001_158M,,,
-Employment status,65 To 69 Years MOE,B23001_159M,,,
-Employment status,In Labor Force MOE,B23001_160M,,,
-Employment status,Employed MOE,B23001_161M,,,
-Employment status,Unemployed MOE,B23001_162M,,,
-Employment status,Not In Labor Force MOE,B23001_163M,,,
-Employment status,70 To 74 Years MOE,B23001_164M,,,
-Employment status,In Labor Force MOE,B23001_165M,,,
-Employment status,Employed MOE,B23001_166M,,,
-Employment status,Unemployed MOE,B23001_167M,,,
-Employment status,Not In Labor Force MOE,B23001_168M,,,
-Employment status,75 Years And Over MOE,B23001_169M,,,
-Employment status,In Labor Force MOE,B23001_170M,,,
-Employment status,Employed MOE,B23001_171M,,,
-Employment status,Unemployed MOE,B23001_172M,,,
-Employment status,Not In Labor Force MOE,B23001_173M,,,
-Employment status,Male - In labor force,,P043003,,
-Employment status,Male - In Armed Forces,,P043004,,
-Employment status,Male - Civilian,,P043005,,
-Employment status,Male - Employed,,P043006,,
-Employment status,Male - Unemployed,,P043007,,
-Employment status,Male - Not in labor force,,P043008,,
-Employment status,Female - In labor force,,P043010,,
-Employment status,Female - In Armed Forces,,P043011,,
-Employment status,Female - Civilian,,P043012,,
-Employment status,Female - Employed,,P043013,,
-Employment status,Female - Unemployed,,P043014,,
-Employment status,Female - Not in labor force,,P043015,,
-Citizenship,Total,,P021001,,
-Citizenship,Native,,P021002,,
-Citizenship,Born in state of residence,,P021003,,
-Citizenship,Born in other state in the United States,,P021004,,
-Citizenship,Northeast,,P021005,,
-Citizenship,Midwest,,P021006,,
-Citizenship,South,,P021007,,
-Citizenship,West,,P021008,,
-Citizenship,Born outside the United States,,P021009,,
-Citizenship,Puerto Rico,,P021010,,
-Citizenship,U.S. Island Areas,,P021011,,
-Citizenship,Born abroad of American parent(s),,P021012,,
-Citizenship,Foreign born,,P021013,,
-Citizenship,Naturalized citizen,,P021014,,
-Citizenship,Not a citizen,,P021015,,
-Citizenship,Total,B05001_001E,,,
-Citizenship,"U.s. Citizen, Born In The United States",B05001_002E,,,
-Citizenship,"U.s. Citizen, Born In Puerto Rico Or U.s. Island Areas",B05001_003E,,,
-Citizenship,"U.s. Citizen, Born Abroad Of American Parent(S)",B05001_004E,,,
-Citizenship,U.s. Citizen By Naturalization,B05001_005E,,,
-Citizenship,Not A U.s. Citizen,B05001_006E,,,
-Citizenship,Total MOE,B05001_001M,,,
-Citizenship,"U.s. Citizen, Born In The United States MOE",B05001_002M,,,
-Citizenship,"U.s. Citizen, Born In Puerto Rico Or U.s. Island Areas MOE",B05001_003M,,,
-Citizenship,"U.s. Citizen, Born Abroad Of American Parent(S) MOE",B05001_004M,,,
-Citizenship,U.s. Citizen By Naturalization MOE,B05001_005M,,,
-Citizenship,Not A U.s. Citizen MOE,B05001_006M,,,
+Topic,Name,sf1_2010,sf1_2000
+sex by age,Total population:,PCT0120001,PCT012001
+sex by age,Male:,PCT0120002,PCT012002
+sex by age,Under 1 year,PCT0120003,PCT012003
+sex by age,1 year,PCT0120004,PCT012004
+sex by age,2 years,PCT0120005,PCT012005
+sex by age,3 years,PCT0120006,PCT012006
+sex by age,4 years,PCT0120007,PCT012007
+sex by age,5 years,PCT0120008,PCT012008
+sex by age,6 years,PCT0120009,PCT012009
+sex by age,7 years,PCT0120010,PCT012010
+sex by age,8 years,PCT0120011,PCT012011
+sex by age,9 years,PCT0120012,PCT012012
+sex by age,10 years,PCT0120013,PCT012013
+sex by age,11 years,PCT0120014,PCT012014
+sex by age,12 years,PCT0120015,PCT012015
+sex by age,13 years,PCT0120016,PCT012016
+sex by age,14 years,PCT0120017,PCT012017
+sex by age,15 years,PCT0120018,PCT012018
+sex by age,16 years,PCT0120019,PCT012019
+sex by age,17 years,PCT0120020,PCT012020
+sex by age,18 years,PCT0120021,PCT012021
+sex by age,19 years,PCT0120022,PCT012022
+sex by age,20 years,PCT0120023,PCT012023
+sex by age,21 years,PCT0120024,PCT012024
+sex by age,22 years,PCT0120025,PCT012025
+sex by age,23 years,PCT0120026,PCT012026
+sex by age,24 years,PCT0120027,PCT012027
+sex by age,25 years,PCT0120028,PCT012028
+sex by age,26 years,PCT0120029,PCT012029
+sex by age,27 years,PCT0120030,PCT012030
+sex by age,28 years,PCT0120031,PCT012031
+sex by age,29 years,PCT0120032,PCT012032
+sex by age,30 years,PCT0120033,PCT012033
+sex by age,31 years,PCT0120034,PCT012034
+sex by age,32 years,PCT0120035,PCT012035
+sex by age,33 years,PCT0120036,PCT012036
+sex by age,34 years,PCT0120037,PCT012037
+sex by age,35 years,PCT0120038,PCT012038
+sex by age,36 years,PCT0120039,PCT012039
+sex by age,37 years,PCT0120040,PCT012040
+sex by age,38 years,PCT0120041,PCT012041
+sex by age,39 years,PCT0120042,PCT012042
+sex by age,40 years,PCT0120043,PCT012043
+sex by age,41 years,PCT0120044,PCT012044
+sex by age,42 years,PCT0120045,PCT012045
+sex by age,43 years,PCT0120046,PCT012046
+sex by age,44 years,PCT0120047,PCT012047
+sex by age,45 years,PCT0120048,PCT012048
+sex by age,46 years,PCT0120049,PCT012049
+sex by age,47 years,PCT0120050,PCT012050
+sex by age,48 years,PCT0120051,PCT012051
+sex by age,49 years,PCT0120052,PCT012052
+sex by age,50 years,PCT0120053,PCT012053
+sex by age,51 years,PCT0120054,PCT012054
+sex by age,52 years,PCT0120055,PCT012055
+sex by age,53 years,PCT0120056,PCT012056
+sex by age,54 years,PCT0120057,PCT012057
+sex by age,55 years,PCT0120058,PCT012058
+sex by age,56 years,PCT0120059,PCT012059
+sex by age,57 years,PCT0120060,PCT012060
+sex by age,58 years,PCT0120061,PCT012061
+sex by age,59 years,PCT0120062,PCT012062
+sex by age,60 years,PCT0120063,PCT012063
+sex by age,61 years,PCT0120064,PCT012064
+sex by age,62 years,PCT0120065,PCT012065
+sex by age,63 years,PCT0120066,PCT012066
+sex by age,64 years,PCT0120067,PCT012067
+sex by age,65 years,PCT0120068,PCT012068
+sex by age,66 years,PCT0120069,PCT012069
+sex by age,67 years,PCT0120070,PCT012070
+sex by age,68 years,PCT0120071,PCT012071
+sex by age,69 years,PCT0120072,PCT012072
+sex by age,70 years,PCT0120073,PCT012073
+sex by age,71 years,PCT0120074,PCT012074
+sex by age,72 years,PCT0120075,PCT012075
+sex by age,73 years,PCT0120076,PCT012076
+sex by age,74 years,PCT0120077,PCT012077
+sex by age,75 years,PCT0120078,PCT012078
+sex by age,76 years,PCT0120079,PCT012079
+sex by age,77 years,PCT0120080,PCT012080
+sex by age,78 years,PCT0120081,PCT012081
+sex by age,79 years,PCT0120082,PCT012082
+sex by age,80 years,PCT0120083,PCT012083
+sex by age,81 years,PCT0120084,PCT012084
+sex by age,82 years,PCT0120085,PCT012085
+sex by age,83 years,PCT0120086,PCT012086
+sex by age,84 years,PCT0120087,PCT012087
+sex by age,85 years,PCT0120088,PCT012088
+sex by age,86 years,PCT0120089,PCT012089
+sex by age,87 years,PCT0120090,PCT012090
+sex by age,88 years,PCT0120091,PCT012091
+sex by age,89 years,PCT0120092,PCT012092
+sex by age,90 years,PCT0120093,PCT012093
+sex by age,91 years,PCT0120094,PCT012094
+sex by age,92 years,PCT0120095,PCT012095
+sex by age,93 years,PCT0120096,PCT012096
+sex by age,94 years,PCT0120097,PCT012097
+sex by age,95 years,PCT0120098,PCT012098
+sex by age,96 years,PCT0120099,PCT012099
+sex by age,97 years,PCT0120100,PCT012100
+sex by age,98 years,PCT0120101,PCT012101
+sex by age,99 years,PCT0120102,PCT012102
+sex by age,100 to 104 years,PCT0120103,PCT012103
+sex by age,105 to 109 years,PCT0120104,PCT012104
+sex by age,110 years and over,PCT0120105,PCT012105
+sex by age,Female:,PCT0120106,PCT012106
+sex by age,Under 1 year,PCT0120107,PCT012107
+sex by age,1 year,PCT0120108,PCT012108
+sex by age,2 years,PCT0120109,PCT012109
+sex by age,3 years,PCT0120110,PCT012110
+sex by age,4 years,PCT0120111,PCT012111
+sex by age,5 years,PCT0120112,PCT012112
+sex by age,6 years,PCT0120113,PCT012113
+sex by age,7 years,PCT0120114,PCT012114
+sex by age,8 years,PCT0120115,PCT012115
+sex by age,9 years,PCT0120116,PCT012116
+sex by age,10 years,PCT0120117,PCT012117
+sex by age,11 years,PCT0120118,PCT012118
+sex by age,12 years,PCT0120119,PCT012119
+sex by age,13 years,PCT0120120,PCT012120
+sex by age,14 years,PCT0120121,PCT012121
+sex by age,15 years,PCT0120122,PCT012122
+sex by age,16 years,PCT0120123,PCT012123
+sex by age,17 years,PCT0120124,PCT012124
+sex by age,18 years,PCT0120125,PCT012125
+sex by age,19 years,PCT0120126,PCT012126
+sex by age,20 years,PCT0120127,PCT012127
+sex by age,21 years,PCT0120128,PCT012128
+sex by age,22 years,PCT0120129,PCT012129
+sex by age,23 years,PCT0120130,PCT012130
+sex by age,24 years,PCT0120131,PCT012131
+sex by age,25 years,PCT0120132,PCT012132
+sex by age,26 years,PCT0120133,PCT012133
+sex by age,27 years,PCT0120134,PCT012134
+sex by age,28 years,PCT0120135,PCT012135
+sex by age,29 years,PCT0120136,PCT012136
+sex by age,30 years,PCT0120137,PCT012137
+sex by age,31 years,PCT0120138,PCT012138
+sex by age,32 years,PCT0120139,PCT012139
+sex by age,33 years,PCT0120140,PCT012140
+sex by age,34 years,PCT0120141,PCT012141
+sex by age,35 years,PCT0120142,PCT012142
+sex by age,36 years,PCT0120143,PCT012143
+sex by age,37 years,PCT0120144,PCT012144
+sex by age,38 years,PCT0120145,PCT012145
+sex by age,39 years,PCT0120146,PCT012146
+sex by age,40 years,PCT0120147,PCT012147
+sex by age,41 years,PCT0120148,PCT012148
+sex by age,42 years,PCT0120149,PCT012149
+sex by age,43 years,PCT0120150,PCT012150
+sex by age,44 years,PCT0120151,PCT012151
+sex by age,45 years,PCT0120152,PCT012152
+sex by age,46 years,PCT0120153,PCT012153
+sex by age,47 years,PCT0120154,PCT012154
+sex by age,48 years,PCT0120155,PCT012155
+sex by age,49 years,PCT0120156,PCT012156
+sex by age,50 years,PCT0120157,PCT012157
+sex by age,51 years,PCT0120158,PCT012158
+sex by age,52 years,PCT0120159,PCT012159
+sex by age,53 years,PCT0120160,PCT012160
+sex by age,54 years,PCT0120161,PCT012161
+sex by age,55 years,PCT0120162,PCT012162
+sex by age,56 years,PCT0120163,PCT012163
+sex by age,57 years,PCT0120164,PCT012164
+sex by age,58 years,PCT0120165,PCT012165
+sex by age,59 years,PCT0120166,PCT012166
+sex by age,60 years,PCT0120167,PCT012167
+sex by age,61 years,PCT0120168,PCT012168
+sex by age,62 years,PCT0120169,PCT012169
+sex by age,63 years,PCT0120170,PCT012170
+sex by age,64 years,PCT0120171,PCT012171
+sex by age,65 years,PCT0120172,PCT012172
+sex by age,66 years,PCT0120173,PCT012173
+sex by age,67 years,PCT0120174,PCT012174
+sex by age,68 years,PCT0120175,PCT012175
+sex by age,69 years,PCT0120176,PCT012176
+sex by age,70 years,PCT0120177,PCT012177
+sex by age,71 years,PCT0120178,PCT012178
+sex by age,72 years,PCT0120179,PCT012179
+sex by age,73 years,PCT0120180,PCT012180
+sex by age,74 years,PCT0120181,PCT012181
+sex by age,75 years,PCT0120182,PCT012182
+sex by age,76 years,PCT0120183,PCT012183
+sex by age,77 years,PCT0120184,PCT012184
+sex by age,78 years,PCT0120185,PCT012185
+sex by age,79 years,PCT0120186,PCT012186
+sex by age,80 years,PCT0120187,PCT012187
+sex by age,81 years,PCT0120188,PCT012188
+sex by age,82 years,PCT0120189,PCT012189
+sex by age,83 years,PCT0120190,PCT012190
+sex by age,84 years,PCT0120191,PCT012191
+sex by age,85 years,PCT0120192,PCT012192
+sex by age,86 years,PCT0120193,PCT012193
+sex by age,87 years,PCT0120194,PCT012194
+sex by age,88 years,PCT0120195,PCT012195
+sex by age,89 years,PCT0120196,PCT012196
+sex by age,90 years,PCT0120197,PCT012197
+sex by age,91 years,PCT0120198,PCT012198
+sex by age,92 years,PCT0120199,PCT012199
+sex by age,93 years,PCT0120200,PCT012200
+sex by age,94 years,PCT0120201,PCT012201
+sex by age,95 years,PCT0120202,PCT012202
+sex by age,96 years,PCT0120203,PCT012203
+sex by age,97 years,PCT0120204,PCT012204
+sex by age,98 years,PCT0120205,PCT012205
+sex by age,99 years,PCT0120206,PCT012206
+sex by age,100 to 104 years,PCT0120207,PCT012207
+sex by age,105 to 109 years,PCT0120208,PCT012208
+sex by age,110 years and over,PCT0120209,PCT012209
