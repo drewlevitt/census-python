@@ -1,0 +1,5 @@
+Topic,Name,acs5_2013,sf3_2000,sf1_2010,sf1_2000
+population,total population,B01003_001E,,P0010001,P001001
+population,total population MOE,B01003_001M,,,
+household income,Total (Estimate),B19001_001E,P052001,,
+household income,"Less Than $10,000 (Estimate)",B19001_002E,P052002,,

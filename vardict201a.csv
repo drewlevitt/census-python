@@ -1,0 +1,92 @@
+Topic,Name,acs5_2013,sf1_2010
+population,total population,,P0010001
+poverty,Total (Estimate),B17001_001E,
+poverty,Income In The Past 12 Months Below Poverty Level (estimate),B17001_002E,
+poverty,Total (Estimate),B17001_001M,
+poverty,Income In The Past 12 Months Below Poverty Level (estimate),B17001_002M,
+Race and ethnicity,Total population:,,P0050001
+Race and ethnicity,Not Hispanic or Latino:,,P0050002
+Race and ethnicity,White alone,,P0050003
+Race and ethnicity,Black or African American alone,,P0050004
+Race and ethnicity,American Indian and Alaska Native alone,,P0050005
+Race and ethnicity,Asian alone,,P0050006
+Race and ethnicity,Native Hawaiian and Other Pacific Islander alone,,P0050007
+Race and ethnicity,Some Other Race alone,,P0050008
+Race and ethnicity,Two or More Races,,P0050009
+Race and ethnicity,Hispanic or Latino:,,P0050010
+Race and ethnicity,White alone,,P0050011
+Race and ethnicity,Black or African American alone,,P0050012
+Race and ethnicity,American Indian and Alaska Native alone,,P0050013
+Race and ethnicity,Asian alone,,P0050014
+Race and ethnicity,Native Hawaiian and Other Pacific Islander alone,,P0050015
+Race and ethnicity,Some Other Race alone,,P0050016
+Race and ethnicity,Two or More Races,,P0050017
+sex by age,Total population:,,P0120001
+sex by age,Male:,,P0120002
+sex by age,Under 5 years,,P0120003
+sex by age,5 to 9 years,,P0120004
+sex by age,10 to 14 years,,P0120005
+sex by age,15 to 17 years,,P0120006
+sex by age,18 and 19 years,,P0120007
+sex by age,20 years,,P0120008
+sex by age,21 years,,P0120009
+sex by age,22 to 24 years,,P0120010
+sex by age,25 to 29 years,,P0120011
+sex by age,30 to 34 years,,P0120012
+sex by age,35 to 39 years,,P0120013
+sex by age,40 to 44 years,,P0120014
+sex by age,45 to 49 years,,P0120015
+sex by age,50 to 54 years,,P0120016
+sex by age,55 to 59 years,,P0120017
+sex by age,60 and 61 years,,P0120018
+sex by age,62 to 64 years,,P0120019
+sex by age,65 and 66 years,,P0120020
+sex by age,67 to 69 years,,P0120021
+sex by age,70 to 74 years,,P0120022
+sex by age,75 to 79 years,,P0120023
+sex by age,80 to 84 years,,P0120024
+sex by age,85 years and over,,P0120025
+sex by age,Female:,,P0120026
+sex by age,Under 5 years,,P0120027
+sex by age,5 to 9 years,,P0120028
+sex by age,10 to 14 years,,P0120029
+sex by age,15 to 17 years,,P0120030
+sex by age,18 and 19 years,,P0120031
+sex by age,20 years,,P0120032
+sex by age,21 years,,P0120033
+sex by age,22 to 24 years,,P0120034
+sex by age,25 to 29 years,,P0120035
+sex by age,30 to 34 years,,P0120036
+sex by age,35 to 39 years,,P0120037
+sex by age,40 to 44 years,,P0120038
+sex by age,45 to 49 years,,P0120039
+sex by age,50 to 54 years,,P0120040
+sex by age,55 to 59 years,,P0120041
+sex by age,60 and 61 years,,P0120042
+sex by age,62 to 64 years,,P0120043
+sex by age,65 and 66 years,,P0120044
+sex by age,67 to 69 years,,P0120045
+sex by age,70 to 74 years,,P0120046
+sex by age,75 to 79 years,,P0120047
+sex by age,80 to 84 years,,P0120048
+sex by age,85 years and over,,P0120049
+student,Total,B14001_001E,
+student,Enrolled In School,B14001_002E,
+student,"Enrolled In Nursery School, Preschool",B14001_003E,
+student,Enrolled In Kindergarten,B14001_004E,
+student,Enrolled In Grade 1 To Grade 4,B14001_005E,
+student,Enrolled In Grade 5 To Grade 8,B14001_006E,
+student,Enrolled In Grade 9 To Grade 12,B14001_007E,
+student,"Enrolled In College, Undergraduate Years",B14001_008E,
+student,Graduate Or Professional School,B14001_009E,
+student,Not Enrolled In School,B14001_010E,
+student,Total,B14001_001M,
+student,Enrolled In School,B14001_002M,
+student,"Enrolled In Nursery School, Preschool",B14001_003M,
+student,Enrolled In Kindergarten,B14001_004M,
+student,Enrolled In Grade 1 To Grade 4,B14001_005M,
+student,Enrolled In Grade 5 To Grade 8,B14001_006M,
+student,Enrolled In Grade 9 To Grade 12,B14001_007M,
+student,"Enrolled In College, Undergraduate Years",B14001_008M,
+student,Graduate Or Professional School,B14001_009M,
+student,Not Enrolled In School,B14001_010M,

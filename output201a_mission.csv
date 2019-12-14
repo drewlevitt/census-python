@@ -1,0 +1,92 @@
+,sf1_2010_tract,sf1_2010_place,acs5_2013_tract,acs5_2013_place
+B14001_001E Total:,,,22249.0,795068.0
+B14001_001M Standard Error For!!Total:,,,579.8378837521007,363.5258358662614
+B14001_002E Enrolled in school:,,,4562.0,173305.0
+B14001_002M Standard Error For!!Enrolled in school:,,,335.6911342516162,1240.7294832826747
+"B14001_003E Enrolled in school:!!Enrolled in nursery school, preschool",,,353.0,11344.0
+"B14001_003M Standard Error For!!Enrolled in school:!!Enrolled in nursery school, preschool",,,72.89258255014514,378.72340425531917
+B14001_004E Enrolled in school:!!Enrolled in kindergarten,,,319.0,6303.0
+B14001_004M Standard Error For!!Enrolled in school:!!Enrolled in kindergarten,,,72.7555710656641,271.73252279635255
+B14001_005E Enrolled in school:!!Enrolled in grade 1 to grade 4,,,850.0,22235.0
+B14001_005M Standard Error For!!Enrolled in school:!!Enrolled in grade 1 to grade 4,,,132.65657896898722,435.258358662614
+B14001_006E Enrolled in school:!!Enrolled in grade 5 to grade 8,,,583.0,21109.0
+B14001_006M Standard Error For!!Enrolled in school:!!Enrolled in grade 5 to grade 8,,,107.94682090978566,519.7568389057751
+B14001_007E Enrolled in school:!!Enrolled in grade 9 to grade 12,,,711.0,23161.0
+B14001_007M Standard Error For!!Enrolled in school:!!Enrolled in grade 9 to grade 12,,,127.7651900640138,407.90273556231
+"B14001_008E Enrolled in school:!!Enrolled in college, undergraduate years",,,1033.0,61993.0
+"B14001_008M Standard Error For!!Enrolled in school:!!Enrolled in college, undergraduate years",,,166.20776739303753,995.1367781155016
+B14001_009E Enrolled in school:!!Graduate or professional school,,,713.0,27160.0
+B14001_009M Standard Error For!!Enrolled in school:!!Graduate or professional school,,,118.34759370812236,755.015197568389
+B14001_010E Not enrolled in school,,,17687.0,621763.0
+B14001_010M Standard Error For!!Not enrolled in school,,,442.614144571614,1231.61094224924
+B17001_001E Total:,,,22923.0,804936.0
+B17001_001M Standard Error For!!Total:,,,598.4594802519406,570.8206686930091
+B17001_002E Income in the past 12 months below poverty level:,,,2209.0,108306.0
+B17001_002M Standard Error For!!Income in the past 12 months below poverty level:,,,356.9678158643909,2179.3313069908813
+P0010001 Total Population,22071.0,805235.0,,
+P0050001 Total population,22071.0,805235.0,,
+P0050002 Not Hispanic or Latino:,16534.0,683461.0,,
+P0050003 Not Hispanic or Latino: !! White alone,12613.0,337451.0,,
+P0050004 Not Hispanic or Latino: !! Black or African American alone,584.0,46781.0,,
+P0050005 Not Hispanic or Latino: !! American Indian and Alaska Native alone,51.0,1828.0,,
+P0050006 Not Hispanic or Latino: !! Asian alone,2355.0,265700.0,,
+P0050007 Not Hispanic or Latino: !! Native Hawaiian and Other Pacific Islander alone,56.0,3128.0,,
+P0050008 Not Hispanic or Latino: !! Some Other Race alone,69.0,2494.0,,
+P0050009 Not Hispanic or Latino: !! Two or More Races,806.0,26079.0,,
+P0050010 Hispanic or Latino: !! Two or More Races,5537.0,121774.0,,
+P0050011 Hispanic or Latino: !! White alone,2808.0,52936.0,,
+P0050012 Hispanic or Latino: !! Black or African American alone,68.0,2089.0,,
+P0050013 Hispanic or Latino: !! American Indian and Alaska Native alone,133.0,2196.0,,
+P0050014 Hispanic or Latino: !! Asian alone,52.0,2215.0,,
+P0050015 Hispanic or Latino: !! Native Hawaiian and Other Pacific Islander alone,5.0,231.0,,
+P0050016 Hispanic or Latino: !! Some Other Race alone,1941.0,50527.0,,
+P0050017 Hispanic or Latino: !! Two or More Races,530.0,11580.0,,
+P0120001 Total population,22071.0,805235.0,,
+P0120002 Male:,11040.0,408462.0,,
+P0120003 Male: !! Under 5 years,721.0,17963.0,,
+P0120004 Male: !! 5 to 9 years,432.0,14466.0,,
+P0120005 Male: !! 10 to 14 years,348.0,13467.0,,
+P0120006 Male: !! 15 to 17 years,203.0,8861.0,,
+P0120007 Male: !! 18 and 19 years,131.0,8027.0,,
+P0120008 Male: !! 20 years,68.0,4543.0,,
+P0120009 Male: !! 21 years,80.0,4875.0,,
+P0120010 Male: !! 22 to 24 years,352.0,19851.0,,
+P0120011 Male: !! 25 to 29 years,888.0,44178.0,,
+P0120012 Male: !! 30 to 34 years,1224.0,41351.0,,
+P0120013 Male: !! 35 to 39 years,1406.0,38264.0,,
+P0120014 Male: !! 40 to 44 years,1223.0,34906.0,,
+P0120015 Male: !! 45 to 49 years,920.0,31783.0,,
+P0120016 Male: !! 50 to 54 years,798.0,28957.0,,
+P0120017 Male: !! 55 to 59 years,737.0,26777.0,,
+P0120018 Male: !! 60 and 61 years,260.0,10159.0,,
+P0120019 Male: !! 62 to 64 years,310.0,12296.0,,
+P0120020 Male: !! 65 and 66 years,165.0,6328.0,,
+P0120021 Male: !! 67 to 69 years,193.0,7990.0,,
+P0120022 Male: !! 70 to 74 years,228.0,11274.0,,
+P0120023 Male: !! 75 to 79 years,150.0,9294.0,,
+P0120024 Male: !! 80 to 84 years,124.0,6878.0,,
+P0120025 Male: !! 85 years and over,79.0,5974.0,,
+P0120026 Female: !! 85 years and over,11031.0,396773.0,,
+P0120027 Female: !! Under 5 years,677.0,17240.0,,
+P0120028 Female: !! 5 to 9 years,464.0,13996.0,,
+P0120029 Female: !! 10 to 14 years,333.0,12832.0,,
+P0120030 Female: !! 15 to 17 years,178.0,8699.0,,
+P0120031 Female: !! 18 and 19 years,124.0,9019.0,,
+P0120032 Female: !! 20 years,71.0,4795.0,,
+P0120033 Female: !! 21 years,56.0,4957.0,,
+P0120034 Female: !! 22 to 24 years,365.0,21597.0,,
+P0120035 Female: !! 25 to 29 years,1045.0,43978.0,,
+P0120036 Female: !! 30 to 34 years,1295.0,38613.0,,
+P0120037 Female: !! 35 to 39 years,1255.0,32549.0,,
+P0120038 Female: !! 40 to 44 years,1061.0,27963.0,,
+P0120039 Female: !! 45 to 49 years,814.0,25794.0,,
+P0120040 Female: !! 50 to 54 years,769.0,25273.0,,
+P0120041 Female: !! 55 to 59 years,710.0,24931.0,,
+P0120042 Female: !! 60 and 61 years,261.0,9955.0,,
+P0120043 Female: !! 62 to 64 years,335.0,12478.0,,
+P0120044 Female: !! 65 and 66 years,197.0,6635.0,,
+P0120045 Female: !! 67 to 69 years,206.0,8827.0,,
+P0120046 Female: !! 70 to 74 years,250.0,13268.0,,
+P0120047 Female: !! 75 to 79 years,214.0,11545.0,,
+P0120048 Female: !! 80 to 84 years,160.0,10312.0,,
+P0120049 Female: !! 85 years and over,191.0,11517.0,,
